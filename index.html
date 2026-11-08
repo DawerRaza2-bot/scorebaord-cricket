@@ -276,7 +276,7 @@ function render(api){
   if(!isInningsBreak) triggerEvent(api.B);
   // ===== BOTTOM - Batsmen + Bowler - API ke p/q/s/b/y/z/c se =====
   const set=(id,v)=>{ const e=document.getElementById(id); if(e) e.textContent=v; };
-  const setImg=(id,src)=>{ const e=document.getElementById(id); if(e&&src) e.src=src; };
+  const setImg=(id,src,fallback1,fallback2)=>{ const e=document.getElementById(id); if(e&&src){ e.onerror=()=>{ if(fallback1 && e.src!==fallback1){ e.src=fallback1; } else if(fallback2 && e.src!==fallback2){ e.src=fallback2; } }; e.src=src; } };
   const isNotStarted = !isInningsBreak && (!api.p || String(api.p).trim()==='') && (String(api.B||'').toLowerCase().includes('opt to bat') || String(api.B||'').toLowerCase().includes('toss'));
   if(isNotStarted){
     set('b1Name','Match Not Started'); set('b1Runs','-'); set('b1Balls','-'); set('b1Sr','-'); set('b14s','-'); set('b16s','-');
@@ -290,8 +290,8 @@ function render(api){
     const batIds = String(api.p||'').split('.').filter(Boolean);
     const b1 = parseRB(api.q), b2 = parseRB(api.s);
     const bats = batIds.map((id,idx)=>{ const st=idx===0?b1:b2; const p=shortNameFor(id, batJersey); return {...p, id, runs:st.runs, balls:st.balls, isStriker:st.isStriker}; });
-    if(bats[0]){ set('b1Name',(bats[0].short||bats[0].id)+(bats[0].isStriker?' *':'')); set('b1Runs',bats[0].runs); set('b1Balls',bats[0].balls); set('b1Sr',bats[0].balls>0?((bats[0].runs/bats[0].balls)*100).toFixed(1):'0.0'); setImg('b1Img',bats[0].vector); setImg('b1Jersey',bats[0].jersey); }
-    if(bats[1]){ set('b2Name',(bats[1].short||bats[1].id)+(bats[1].isStriker?' *':'')); set('b2Runs',bats[1].runs); set('b2Balls',bats[1].balls); set('b2Sr',bats[1].balls>0?((bats[1].runs/bats[1].balls)*100).toFixed(1):'0.0'); setImg('b2Img',bats[1].vector); setImg('b2Jersey',bats[1].jersey); }
+    if(bats[0]){ set('b1Name',(bats[0].short||bats[0].id)+(bats[0].isStriker?' *':'')); set('b1Runs',bats[0].runs); set('b1Balls',bats[0].balls); set('b1Sr',bats[0].balls>0?((bats[0].runs/bats[0].balls)*100).toFixed(1):'0.0'); setImg('b1Img',bats[0].vector, batFlag); setImg('b1Jersey',bats[0].jersey, batJersey, batFlag); }
+    if(bats[1]){ set('b2Name',(bats[1].short||bats[1].id)+(bats[1].isStriker?' *':'')); set('b2Runs',bats[1].runs); set('b2Balls',bats[1].balls); set('b2Sr',bats[1].balls>0?((bats[1].runs/bats[1].balls)*100).toFixed(1):'0.0'); setImg('b2Img',bats[1].vector, batFlag); setImg('b2Jersey',bats[1].jersey, batJersey, batFlag); }
     // Bowler - b = ID, y/z = "id.runs.balls.wkts", c = "overs.runs.wkts.balls" fallback
     if(api.b && String(api.b).trim()!==''){
       const p=shortNameFor(api.b, bowlJersey);
@@ -304,7 +304,7 @@ function render(api){
       // Agar balls 44 jaisa bada number hai to wo balls hai, overs me convert karo - 44 balls = 7.2 overs
       let ovStr = ballsB>0 ? ballsToOvers(ballsB) : '0.0';
       // Agar y/z me overs hi diya hai (jaise "5.5") to ballsToOvers galat hoga - isliye agar ballsB>100 to overs hi samjho
-      set('bowlName',p.short||api.b); set('bowlFigs',wkts+'-'+runs); set('bowlOvs',ovStr); set('bowlEcon',ballsB>0?(runs/(ballsB/6)).toFixed(2):'0.00'); setImg('bowlImg',p.vector); setImg('bowlJersey',p.jersey);
+      set('bowlName',p.short||api.b); set('bowlFigs',wkts+'-'+runs); set('bowlOvs',ovStr); set('bowlEcon',ballsB>0?(runs/(ballsB/6)).toFixed(2):'0.00'); setImg('bowlImg',p.vector, bowlFlag); setImg('bowlJersey',p.jersey, bowlJersey, bowlFlag);
     } else {
       set('bowlName','-'); set('bowlFigs','-'); set('bowlOvs','-'); set('bowlEcon','-');
     }
