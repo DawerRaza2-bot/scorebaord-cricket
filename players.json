@@ -1,0 +1,4749 @@
+{
+  "updatedAt": "2026-11-08T04:33:08.957Z",
+  "total": 527,
+  "playersMap": {
+    "54": {
+      "id": "54",
+      "name": "David Miller",
+      "shortName": "D Miller",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/54.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/54.png"
+    },
+    "97": {
+      "id": "97",
+      "name": "David Wiese",
+      "shortName": "D Wiese",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/97.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/97.png"
+    },
+    "98": {
+      "id": "98",
+      "name": "Imran Tahir",
+      "shortName": "I Tahir",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/98.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/98.png"
+    },
+    "101": {
+      "id": "101",
+      "name": "Fatima Sana",
+      "shortName": "F Sana",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/101.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/101.png"
+    },
+    "128": {
+      "id": "128",
+      "name": "Senuran Muthusamy",
+      "shortName": "S Muthusamy",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/128.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/128.png"
+    },
+    "145": {
+      "id": "145",
+      "name": "Annabel Sutherland",
+      "shortName": "A Sutherland",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/145.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/145.png"
+    },
+    "162": {
+      "id": "162",
+      "name": "Alishan Sharafu",
+      "shortName": "A Sharafu",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/162.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/162.png"
+    },
+    "174": {
+      "id": "174",
+      "name": "Noor Ahmad",
+      "shortName": "N Ahmad",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/174.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/174.png"
+    },
+    "182": {
+      "id": "182",
+      "name": "Ali Naseer",
+      "shortName": "A Naseer",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/182.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/182.png"
+    },
+    "189": {
+      "id": "189",
+      "name": "Amshi de Silva",
+      "shortName": "A d Silva",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/189.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/189.png"
+    },
+    "214": {
+      "id": "214",
+      "name": "Kyle Mayers",
+      "shortName": "K Mayers",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/214.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/214.png"
+    },
+    "322": {
+      "id": "322",
+      "name": "Saifullah Bangash",
+      "shortName": "S Bangash",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/322.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/322.png"
+    },
+    "327": {
+      "id": "327",
+      "name": "Imran Butt",
+      "shortName": "I Butt",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/327.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/327.png"
+    },
+    "384": {
+      "id": "384",
+      "name": "Carly Leeson",
+      "shortName": "C Leeson",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/384.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/384.png"
+    },
+    "386": {
+      "id": "386",
+      "name": "Katie Mack",
+      "shortName": "K Mack",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/386.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/386.png"
+    },
+    "723": {
+      "id": "723",
+      "name": "Faisal Akram",
+      "shortName": "F Akram",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/723.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/723.png"
+    },
+    "725": {
+      "id": "725",
+      "name": "Omair Yousuf",
+      "shortName": "O Yousuf",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/725.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/725.png"
+    },
+    "735": {
+      "id": "735",
+      "name": "Joshua Richards",
+      "shortName": "J Richards",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/735.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/735.png"
+    },
+    "739": {
+      "id": "739",
+      "name": "Evan Jones",
+      "shortName": "E Jones",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/739.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/739.png"
+    },
+    "750": {
+      "id": "750",
+      "name": "Gideon Peters",
+      "shortName": "G Peters",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/750.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/750.png"
+    },
+    "766": {
+      "id": "766",
+      "name": "Christopher Britz",
+      "shortName": "C Britz",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/766.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/766.png"
+    },
+    "769": {
+      "id": "769",
+      "name": "Dewald Brevis",
+      "shortName": "D Brevis",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/769.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/769.png"
+    },
+    "771": {
+      "id": "771",
+      "name": "Najeebullah Achakzai",
+      "shortName": "N Achakzai",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/771.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/771.png"
+    },
+    "773": {
+      "id": "773",
+      "name": "Muhammad Amir Barki",
+      "shortName": "M A Barki",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/773.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/773.png"
+    },
+    "777": {
+      "id": "777",
+      "name": "Mubasir Khan",
+      "shortName": "M Khan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/777.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/777.png"
+    },
+    "778": {
+      "id": "778",
+      "name": "Aamir Jamal",
+      "shortName": "A Jamal",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/778.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/U.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/778.png"
+    },
+    "784": {
+      "id": "784",
+      "name": "Athar Mahmood",
+      "shortName": "A Mahmood",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/784.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/784.png"
+    },
+    "798": {
+      "id": "798",
+      "name": "Imran Rafiq",
+      "shortName": "I Rafiq",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/798.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/798.png"
+    },
+    "799": {
+      "id": "799",
+      "name": "Ali Usman",
+      "shortName": "A Usman",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/799.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/799.png"
+    },
+    "879": {
+      "id": "879",
+      "name": "Ronan Hermann",
+      "shortName": "R Hermann",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/879.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/879.png"
+    },
+    "L1U": {
+      "id": "L1U",
+      "name": "Aaryavir Sehwag",
+      "shortName": "A Sehwag",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/L1U.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/L1U.png"
+    },
+    "P1F": {
+      "id": "P1F",
+      "name": "Anvay Dravid",
+      "shortName": "A Dravid",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1F.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1F.png"
+    },
+    "P1N": {
+      "id": "P1N",
+      "name": "Ishan Sood",
+      "shortName": "I Sood",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1N.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1N.png"
+    },
+    "LUV": {
+      "id": "LUV",
+      "name": "Lakshya Raichandani",
+      "shortName": "L Raichandani",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LUV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LUV.png"
+    },
+    "K7G": {
+      "id": "K7G",
+      "name": "Mohit Ulva",
+      "shortName": "M Ulva",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/K7G.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/K7G.png"
+    },
+    "P1E": {
+      "id": "P1E",
+      "name": "Rajat Baghel",
+      "shortName": "R Baghel",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1E.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1E.png"
+    },
+    "E3N": {
+      "id": "E3N",
+      "name": "Arjun Rajput",
+      "shortName": "A Rajput",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/E3N.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/E3N.png"
+    },
+    "P1P": {
+      "id": "P1P",
+      "name": "Manal Chauhan",
+      "shortName": "M Chauhan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1P.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1P.png"
+    },
+    "P1G": {
+      "id": "P1G",
+      "name": "Vutkuri Yashveer Goud",
+      "shortName": "V Y Goud",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1G.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1G.png"
+    },
+    "P1C": {
+      "id": "P1C",
+      "name": "VK Vineeth",
+      "shortName": "V Vineeth",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1C.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1C.png"
+    },
+    "P1A": {
+      "id": "P1A",
+      "name": "Yashbardhan Singh Chauhan",
+      "shortName": "Y S Chauhan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1A.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1A.png"
+    },
+    "P1D": {
+      "id": "P1D",
+      "name": "Kushagra Ojha",
+      "shortName": "K Ojha",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1D.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1D.png"
+    },
+    "P1J": {
+      "id": "P1J",
+      "name": "Shavin Vinodh",
+      "shortName": "S Vinodh",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1J.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1J.png"
+    },
+    "P1L": {
+      "id": "P1L",
+      "name": "Kavya Paresh Patel",
+      "shortName": "K P Patel",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P1L.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P1L.png"
+    },
+    "OHD": {
+      "id": "OHD",
+      "name": "Aryan Savsani",
+      "shortName": "A Savsani",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/OHD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8B.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/OHD.png"
+    },
+    "MAZ": {
+      "id": "MAZ",
+      "name": "Hamza Zahoor",
+      "shortName": "H Zahoor",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MAZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MAZ.png"
+    },
+    "9LW": {
+      "id": "9LW",
+      "name": "Farhan Yousaf",
+      "shortName": "F Yousaf",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9LW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9LW.png"
+    },
+    "PYN": {
+      "id": "PYN",
+      "name": "Hayam Khan",
+      "shortName": "H Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/PYN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/PYN.png"
+    },
+    "MB0": {
+      "id": "MB0",
+      "name": "Huzaifa Ahsan",
+      "shortName": "H Ahsan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MB0.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MB0.png"
+    },
+    "MXN": {
+      "id": "MXN",
+      "name": "Abdul Qadir",
+      "shortName": "A Qadir",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MXN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MXN.png"
+    },
+    "9PE": {
+      "id": "9PE",
+      "name": "Usman Khan JNR",
+      "shortName": "U K JNR",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9PE.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9PE.png"
+    },
+    "9LV": {
+      "id": "9LV",
+      "name": "Ahmed Hussain",
+      "shortName": "A Hussain",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9LV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9LV.png"
+    },
+    "PYO": {
+      "id": "PYO",
+      "name": "Jahangir Bilal",
+      "shortName": "J Bilal",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/PYO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/PYO.png"
+    },
+    "MAR": {
+      "id": "MAR",
+      "name": "Niqab Shafiq",
+      "shortName": "N Shafiq",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MAR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MAR.png"
+    },
+    "FUW": {
+      "id": "FUW",
+      "name": "Mohammad Huzaifa",
+      "shortName": "M Huzaifa",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FUW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FUW.png"
+    },
+    "DA7": {
+      "id": "DA7",
+      "name": "Ali Raza",
+      "shortName": "A Raza",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DA7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DA7.png"
+    },
+    "PYM": {
+      "id": "PYM",
+      "name": "Hasnain Abbas Dar",
+      "shortName": "H A Dar",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/PYM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/PYM.png"
+    },
+    "MB1": {
+      "id": "MB1",
+      "name": "Mohammad Sayyam",
+      "shortName": "M Sayyam",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MB1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MB1.png"
+    },
+    "NDB": {
+      "id": "NDB",
+      "name": "Rizwan Ullah",
+      "shortName": "R Ullah",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NDB.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NDB.png"
+    },
+    "FUT": {
+      "id": "FUT",
+      "name": "Abdul Subhan",
+      "shortName": "A Subhan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FUT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/8D.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FUT.png"
+    },
+    "36C": {
+      "id": "36C",
+      "name": "Mikayla Hinkley",
+      "shortName": "M Hinkley",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/36C.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/36C.png"
+    },
+    "32O": {
+      "id": "32O",
+      "name": "Chloe Piparo",
+      "shortName": "C Piparo",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/32O.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/32O.png"
+    },
+    "BM1": {
+      "id": "BM1",
+      "name": "Ines Mckeon",
+      "shortName": "I Mckeon",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BM1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BM1.png"
+    },
+    "PV": {
+      "id": "PV",
+      "name": "Beth Mooney",
+      "shortName": "B Mooney",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/PV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/PV.png"
+    },
+    "PG": {
+      "id": "PG",
+      "name": "Sophie Devine",
+      "shortName": "S Devine",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/PG.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/PG.png"
+    },
+    "8SD": {
+      "id": "8SD",
+      "name": "Freya Kemp",
+      "shortName": "F Kemp",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8SD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8SD.png"
+    },
+    "38G": {
+      "id": "38G",
+      "name": "Alana King",
+      "shortName": "A King",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/38G.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/38G.png"
+    },
+    "77V": {
+      "id": "77V",
+      "name": "Amy Louise Edgar",
+      "shortName": "A L Edgar",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/77V.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/77V.png"
+    },
+    "FGA": {
+      "id": "FGA",
+      "name": "Ruby Strange",
+      "shortName": "R Strange",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FGA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FGA.png"
+    },
+    "3EX": {
+      "id": "3EX",
+      "name": "Lilly Mills",
+      "shortName": "L Mills",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3EX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3EX.png"
+    },
+    "B1Z": {
+      "id": "B1Z",
+      "name": "Chloe Ainsworth",
+      "shortName": "C Ainsworth",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B1Z.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B1Z.png"
+    },
+    "9T3": {
+      "id": "9T3",
+      "name": "Ebony Hoskin",
+      "shortName": "E Hoskin",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9T3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4X.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9T3.png"
+    },
+    "P7": {
+      "id": "P7",
+      "name": "Meg Lanning",
+      "shortName": "M Lanning",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/P7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/P7.png"
+    },
+    "1GF": {
+      "id": "1GF",
+      "name": "Amy Jones",
+      "shortName": "A Jones",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1GF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1GF.png"
+    },
+    "77Z": {
+      "id": "77Z",
+      "name": "Rhys McKenna",
+      "shortName": "R McKenna",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/77Z.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/77Z.png"
+    },
+    "36D": {
+      "id": "36D",
+      "name": "Naomi Stalenberg",
+      "shortName": "N Stalenberg",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/36D.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/36D.png"
+    },
+    "6EH": {
+      "id": "6EH",
+      "name": "Danielle Gibson",
+      "shortName": "D Gibson",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/6EH.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/6EH.png"
+    },
+    "7YV": {
+      "id": "7YV",
+      "name": "Charlie Dean",
+      "shortName": "C Dean",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7YV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7YV.png"
+    },
+    "R2": {
+      "id": "R2",
+      "name": "Kim Garth",
+      "shortName": "K Garth",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/R2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/R2.png"
+    },
+    "4WL": {
+      "id": "4WL",
+      "name": "Sophie Day",
+      "shortName": "S Day",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4WL.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4WL.png"
+    },
+    "FHF": {
+      "id": "FHF",
+      "name": "Indigo Noble",
+      "shortName": "I Noble",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FHF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FHF.png"
+    },
+    "FH4": {
+      "id": "FH4",
+      "name": "Tia Davidge",
+      "shortName": "T Davidge",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FH4.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FH4.png"
+    },
+    "36P": {
+      "id": "36P",
+      "name": "Maisy Gibson",
+      "shortName": "M Gibson",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/36P.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/36P.png"
+    },
+    "37D": {
+      "id": "37D",
+      "name": "Georgia Prestwidge",
+      "shortName": "G Prestwidge",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/37D.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/37D.png"
+    },
+    "FHD": {
+      "id": "FHD",
+      "name": "Zoe Samuel",
+      "shortName": "Z Samuel",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FHD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/4W.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FHD.png"
+    },
+    "8OS": {
+      "id": "8OS",
+      "name": "Edelle van Zyl",
+      "shortName": "E v Zyl",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8OS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8OS.png"
+    },
+    "8P5": {
+      "id": "8P5",
+      "name": "Merczerly Gorases",
+      "shortName": "M Gorases",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8P5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8P5.png"
+    },
+    "8OV": {
+      "id": "8OV",
+      "name": "Sylvia Shihepo",
+      "shortName": "S Shihepo",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8OV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8OV.png"
+    },
+    "QNB": {
+      "id": "QNB",
+      "name": "Sarafia Handiba",
+      "shortName": "S Handiba",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QNB.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QNB.png"
+    },
+    "8OK": {
+      "id": "8OK",
+      "name": "Jurriene Diergaardt",
+      "shortName": "J Diergaardt",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8OK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8OK.png"
+    },
+    "8FN": {
+      "id": "8FN",
+      "name": "Kayleen Green",
+      "shortName": "K Green",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8FN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8FN.png"
+    },
+    "BKC": {
+      "id": "BKC",
+      "name": "Naomi Benjamin",
+      "shortName": "N Benjamin",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BKC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BKC.png"
+    },
+    "8FM": {
+      "id": "8FM",
+      "name": "Sune Alet Wittmann",
+      "shortName": "S A Wittmann",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8FM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8FM.png"
+    },
+    "8OM": {
+      "id": "8OM",
+      "name": "Wilka Mwatile",
+      "shortName": "W Mwatile",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8OM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8OM.png"
+    },
+    "8ON": {
+      "id": "8ON",
+      "name": "Mekelaye Mwatile",
+      "shortName": "M Mwatile",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8ON.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8ON.png"
+    },
+    "8OO": {
+      "id": "8OO",
+      "name": "Victoria Hamunyela",
+      "shortName": "V Hamunyela",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8OO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8OO.png"
+    },
+    "B1W": {
+      "id": "B1W",
+      "name": "Eveleen Kejarukua",
+      "shortName": "E Kejarukua",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B1W.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B1W.png"
+    },
+    "CJ0": {
+      "id": "CJ0",
+      "name": "Saima Tuhadeleni",
+      "shortName": "S Tuhadeleni",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CJ0.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CJ0.png"
+    },
+    "D6K": {
+      "id": "D6K",
+      "name": "Alice Ikuzwe",
+      "shortName": "A Ikuzwe",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D6K.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D6K.png"
+    },
+    "NQC": {
+      "id": "NQC",
+      "name": "Fanny Utagushimaninde",
+      "shortName": "F Utagushimaninde",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NQC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NQC.png"
+    },
+    "B6I": {
+      "id": "B6I",
+      "name": "Merveille Uwase",
+      "shortName": "M Uwase",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B6I.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B6I.png"
+    },
+    "B6K": {
+      "id": "B6K",
+      "name": "Shakila Niyomuhoza",
+      "shortName": "S Niyomuhoza",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B6K.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B6K.png"
+    },
+    "D6S": {
+      "id": "D6S",
+      "name": "Flora Irakoze",
+      "shortName": "F Irakoze",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D6S.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D6S.png"
+    },
+    "B6O": {
+      "id": "B6O",
+      "name": "Belise Murekatete",
+      "shortName": "B Murekatete",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B6O.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B6O.png"
+    },
+    "D6Q": {
+      "id": "D6Q",
+      "name": "Marie Bimenyimana",
+      "shortName": "M Bimenyimana",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D6Q.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D6Q.png"
+    },
+    "B6G": {
+      "id": "B6G",
+      "name": "Gisele Ishimwe",
+      "shortName": "G Ishimwe",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B6G.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B6G.png"
+    },
+    "8RA": {
+      "id": "8RA",
+      "name": "Henriette Ishimwe",
+      "shortName": "H Ishimwe",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8RA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8RA.png"
+    },
+    "O4Y": {
+      "id": "O4Y",
+      "name": "Ruth Uwimana",
+      "shortName": "R Uwimana",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/O4Y.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/O4Y.png"
+    },
+    "KMJ": {
+      "id": "KMJ",
+      "name": "Georgette Ingabire",
+      "shortName": "G Ingabire",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/KMJ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/KMJ.png"
+    },
+    "D6N": {
+      "id": "D6N",
+      "name": "Rosine Irera",
+      "shortName": "R Irera",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D6N.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D6N.png"
+    },
+    "KMH": {
+      "id": "KMH",
+      "name": "Rosette Shimwamana",
+      "shortName": "R Shimwamana",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/KMH.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/KMH.png"
+    },
+    "D6M": {
+      "id": "D6M",
+      "name": "Clarisse Uwase",
+      "shortName": "C Uwase",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D6M.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/UB.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D6M.png"
+    },
+    "NAA": {
+      "id": "NAA",
+      "name": "Brayden Hicks",
+      "shortName": "B Hicks",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NAA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NAA.png"
+    },
+    "9PP": {
+      "id": "9PP",
+      "name": "Dewan Marais",
+      "shortName": "D Marais",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9PP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9PP.png"
+    },
+    "9PJ": {
+      "id": "9PJ",
+      "name": "Amaan Khan",
+      "shortName": "A Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9PJ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9PJ.png"
+    },
+    "15F": {
+      "id": "15F",
+      "name": "Merrick Brett",
+      "shortName": "M Brett",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/15F.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/15F.png"
+    },
+    "CPS": {
+      "id": "CPS",
+      "name": "Juan Lubbe",
+      "shortName": "J Lubbe",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CPS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CPS.png"
+    },
+    "Q7H": {
+      "id": "Q7H",
+      "name": "Sabelo Mabanga",
+      "shortName": "S Mabanga",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/Q7H.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/Q7H.png"
+    },
+    "5HR": {
+      "id": "5HR",
+      "name": "Kabelo Sekhukhune",
+      "shortName": "K Sekhukhune",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5HR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5HR.png"
+    },
+    "76M": {
+      "id": "76M",
+      "name": "Jurie Snyman",
+      "shortName": "J Snyman",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/76M.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/76M.png"
+    },
+    "QL2": {
+      "id": "QL2",
+      "name": "Tiaan Kuhn",
+      "shortName": "T Kuhn",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QL2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QL2.png"
+    },
+    "QHZ": {
+      "id": "QHZ",
+      "name": "Thabiso Lekhoana",
+      "shortName": "T Lekhoana",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QHZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QHZ.png"
+    },
+    "76W": {
+      "id": "76W",
+      "name": "Tumelo Simelane",
+      "shortName": "T Simelane",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/76W.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/76W.png"
+    },
+    "76F": {
+      "id": "76F",
+      "name": "Chad Classen",
+      "shortName": "C Classen",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/76F.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/76F.png"
+    },
+    "9PY": {
+      "id": "9PY",
+      "name": "Leander Lubbe",
+      "shortName": "L Lubbe",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9PY.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9PY.png"
+    },
+    "M33": {
+      "id": "M33",
+      "name": "Aryan Gopalan",
+      "shortName": "A Gopalan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M33.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M33.png"
+    },
+    "COW": {
+      "id": "COW",
+      "name": "Martin Khumalo",
+      "shortName": "M Khumalo",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/COW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/COW.png"
+    },
+    "1F5": {
+      "id": "1F5",
+      "name": "Sibonelo Makhanya",
+      "shortName": "S Makhanya",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1F5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1F5.png"
+    },
+    "5ZT": {
+      "id": "5ZT",
+      "name": "Tristan Stubbs",
+      "shortName": "T Stubbs",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5ZT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5ZT.png"
+    },
+    "HF3": {
+      "id": "HF3",
+      "name": "Matthew de Villiers",
+      "shortName": "M d Villiers",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HF3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HF3.png"
+    },
+    "5XV": {
+      "id": "5XV",
+      "name": "Jean du Plessis",
+      "shortName": "J d Plessis",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5XV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5XV.png"
+    },
+    "87Z": {
+      "id": "87Z",
+      "name": "Jason Raubenheimer",
+      "shortName": "J Raubenheimer",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/87Z.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/87Z.png"
+    },
+    "8II": {
+      "id": "8II",
+      "name": "Jordan Hermann",
+      "shortName": "J Hermann",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8II.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8II.png"
+    },
+    "CRD": {
+      "id": "CRD",
+      "name": "JP King",
+      "shortName": "J King",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CRD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CRD.png"
+    },
+    "1F8": {
+      "id": "1F8",
+      "name": "Patrick Kruger",
+      "shortName": "P Kruger",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1F8.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1F8.png"
+    },
+    "5HV": {
+      "id": "5HV",
+      "name": "Andile Mokgakane",
+      "shortName": "A Mokgakane",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5HV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5HV.png"
+    },
+    "5HJ": {
+      "id": "5HJ",
+      "name": "Thomas Kaber",
+      "shortName": "T Kaber",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5HJ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5HJ.png"
+    },
+    "82L": {
+      "id": "82L",
+      "name": "Matthew Boast",
+      "shortName": "M Boast",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/82L.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/82L.png"
+    },
+    "CMI": {
+      "id": "CMI",
+      "name": "Modiri Litheko",
+      "shortName": "M Litheko",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CMI.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CMI.png"
+    },
+    "A7Q": {
+      "id": "A7Q",
+      "name": "Muhammad Manack",
+      "shortName": "M Manack",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/A7Q.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/A7Q.png"
+    },
+    "QK7": {
+      "id": "QK7",
+      "name": "Wezo Gqiba",
+      "shortName": "W Gqiba",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QK7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QK7.png"
+    },
+    "BN": {
+      "id": "BN",
+      "name": "Beuran Hendricks",
+      "shortName": "B Hendricks",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BN.png"
+    },
+    "DO6": {
+      "id": "DO6",
+      "name": "Wesley Bedja",
+      "shortName": "W Bedja",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DO6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DO6.png"
+    },
+    "1FA": {
+      "id": "1FA",
+      "name": "Kerwin Mungroo",
+      "shortName": "K Mungroo",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1FA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1FA.png"
+    },
+    "J5": {
+      "id": "J5",
+      "name": "Duanne Olivier",
+      "shortName": "D Olivier",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/J5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/J5.png"
+    },
+    "M3Q": {
+      "id": "M3Q",
+      "name": "Jordan Morris",
+      "shortName": "J Morris",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M3Q.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M3Q.png"
+    },
+    "8KC": {
+      "id": "8KC",
+      "name": "Ethan Frosler",
+      "shortName": "E Frosler",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8KC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6C.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8KC.png"
+    },
+    "AYT": {
+      "id": "AYT",
+      "name": "Esther Iloku",
+      "shortName": "E Iloku",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/AYT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/AYT.png"
+    },
+    "8P7": {
+      "id": "8P7",
+      "name": "Janet Mbabazi",
+      "shortName": "J Mbabazi",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8P7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8P7.png"
+    },
+    "8OR": {
+      "id": "8OR",
+      "name": "Kevin Awino",
+      "shortName": "K Awino",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8OR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8OR.png"
+    },
+    "D54": {
+      "id": "D54",
+      "name": "Malisa Ariokot",
+      "shortName": "M Ariokot",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D54.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D54.png"
+    },
+    "2XY": {
+      "id": "2XY",
+      "name": "Rita Musamali",
+      "shortName": "R Musamali",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/2XY.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/2XY.png"
+    },
+    "LE3": {
+      "id": "LE3",
+      "name": "Jane Naume Amongin",
+      "shortName": "J N Amongin",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LE3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LE3.png"
+    },
+    "QNA": {
+      "id": "QNA",
+      "name": "Kampi Nainhabo",
+      "shortName": "K Nainhabo",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QNA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QNA.png"
+    },
+    "2XT": {
+      "id": "2XT",
+      "name": "Immaculate Nakisuuyi",
+      "shortName": "I Nakisuuyi",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/2XT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/2XT.png"
+    },
+    "AYO": {
+      "id": "AYO",
+      "name": "Prosscovia Alako",
+      "shortName": "P Alako",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/AYO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/AYO.png"
+    },
+    "AYP": {
+      "id": "AYP",
+      "name": "Stephanie Nampiina",
+      "shortName": "S Nampiina",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/AYP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/AYP.png"
+    },
+    "2Y2": {
+      "id": "2Y2",
+      "name": "Concy Aweko",
+      "shortName": "C Aweko",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/2Y2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/2Y2.png"
+    },
+    "PI2": {
+      "id": "PI2",
+      "name": "Asumin Akurut",
+      "shortName": "A Akurut",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/PI2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/PI2.png"
+    },
+    "8T9": {
+      "id": "8T9",
+      "name": "Sarah Walaza",
+      "shortName": "S Walaza",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8T9.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8T9.png"
+    },
+    "8PC": {
+      "id": "8PC",
+      "name": "Sarah Akiteng",
+      "shortName": "S Akiteng",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8PC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/CG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8PC.png"
+    },
+    "GJM": {
+      "id": "GJM",
+      "name": "Nikhar Doshi",
+      "shortName": "N Doshi",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/GJM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/GJM.png"
+    },
+    "MPS": {
+      "id": "MPS",
+      "name": "Sainavi Kambalapalli",
+      "shortName": "S Kambalapalli",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MPS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MPS.png"
+    },
+    "B3I": {
+      "id": "B3I",
+      "name": "Pooja Ganesh",
+      "shortName": "P Ganesh",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B3I.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B3I.png"
+    },
+    "FG7": {
+      "id": "FG7",
+      "name": "Chetna Reddy Pagydyala",
+      "shortName": "C R Pagydyala",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FG7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FG7.png"
+    },
+    "7HH": {
+      "id": "7HH",
+      "name": "Gargi Bhogle",
+      "shortName": "G Bhogle",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7HH.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7HH.png"
+    },
+    "B3E": {
+      "id": "B3E",
+      "name": "Aditiba Chudasama",
+      "shortName": "A Chudasama",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B3E.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B3E.png"
+    },
+    "6RD": {
+      "id": "6RD",
+      "name": "Ella Claridge",
+      "shortName": "E Claridge",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/6RD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/6RD.png"
+    },
+    "7HI": {
+      "id": "7HI",
+      "name": "Geetika Kodali",
+      "shortName": "G Kodali",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7HI.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7HI.png"
+    },
+    "B3F": {
+      "id": "B3F",
+      "name": "Isani Vaghela",
+      "shortName": "I Vaghela",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B3F.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B3F.png"
+    },
+    "B3G": {
+      "id": "B3G",
+      "name": "Jivana Aras",
+      "shortName": "J Aras",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B3G.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B3G.png"
+    },
+    "9FH": {
+      "id": "9FH",
+      "name": "Ritu Priya Singh",
+      "shortName": "R P Singh",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9FH.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9FH.png"
+    },
+    "9FI": {
+      "id": "9FI",
+      "name": "Taranum Chopra",
+      "shortName": "T Chopra",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9FI.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9FI.png"
+    },
+    "GJL": {
+      "id": "GJL",
+      "name": "Maahi Madhavan",
+      "shortName": "M Madhavan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/GJL.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/GJL.png"
+    },
+    "FG6": {
+      "id": "FG6",
+      "name": "Lekha Shetty",
+      "shortName": "L Shetty",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FG6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/JM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FG6.png"
+    },
+    "1FX": {
+      "id": "1FX",
+      "name": "Andries Gous",
+      "shortName": "A Gous",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1FX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1FX.png"
+    },
+    "GB": {
+      "id": "GB",
+      "name": "James Vince",
+      "shortName": "J Vince",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/GB.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/GB.png"
+    },
+    "FP5": {
+      "id": "FP5",
+      "name": "Kamil Pooran",
+      "shortName": "K Pooran",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FP5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FP5.png"
+    },
+    "16L": {
+      "id": "16L",
+      "name": "Ansh Tandon",
+      "shortName": "A Tandon",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/16L.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/16L.png"
+    },
+    "1C7": {
+      "id": "1C7",
+      "name": "Tom Moores",
+      "shortName": "T Moores",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1C7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1C7.png"
+    },
+    "9P": {
+      "id": "9P",
+      "name": "Jason Holder",
+      "shortName": "J Holder",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9P.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9P.png"
+    },
+    "MV": {
+      "id": "MV",
+      "name": "David Willey",
+      "shortName": "D Willey",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MV.png"
+    },
+    "K2": {
+      "id": "K2",
+      "name": "Dasun Shanaka",
+      "shortName": "D Shanaka",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/K2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/K2.png"
+    },
+    "N1": {
+      "id": "N1",
+      "name": "Karim Janat",
+      "shortName": "K Janat",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/N1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/N1.png"
+    },
+    "70S": {
+      "id": "70S",
+      "name": "Sanjay Krishnamurthi",
+      "shortName": "S Krishnamurthi",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/70S.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/70S.png"
+    },
+    "AAU": {
+      "id": "AAU",
+      "name": "Haider Ali",
+      "shortName": "H Ali",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/AAU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/AAU.png"
+    },
+    "4JA": {
+      "id": "4JA",
+      "name": "Aryan Dutt",
+      "shortName": "A Dutt",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4JA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4JA.png"
+    },
+    "21J": {
+      "id": "21J",
+      "name": "Akeal Hosein",
+      "shortName": "A Hosein",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/21J.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/21J.png"
+    },
+    "J7I": {
+      "id": "J7I",
+      "name": "Ajay Kumar",
+      "shortName": "A Kumar",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/J7I.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/J7I.png"
+    },
+    "BUC": {
+      "id": "BUC",
+      "name": "Eshan Malinga",
+      "shortName": "E Malinga",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BUC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BUC.png"
+    },
+    "D25": {
+      "id": "D25",
+      "name": "Khuzaima Bin Tanvir",
+      "shortName": "K B Tanvir",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D25.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D25.png"
+    },
+    "NR": {
+      "id": "NR",
+      "name": "Obed McCoy",
+      "shortName": "O McCoy",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NR.png"
+    },
+    "5XK": {
+      "id": "5XK",
+      "name": "Fazalhaq Farooqi",
+      "shortName": "F Farooqi",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5XK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5XK.png"
+    },
+    "D8": {
+      "id": "D8",
+      "name": "Rovman Powell",
+      "shortName": "R Powell",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D8.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D8.png"
+    },
+    "D27": {
+      "id": "D27",
+      "name": "Luqman Faisal",
+      "shortName": "L Faisal",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D27.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D27.png"
+    },
+    "8K": {
+      "id": "8K",
+      "name": "Alex Hales",
+      "shortName": "A Hales",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8K.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8K.png"
+    },
+    "BX": {
+      "id": "BX",
+      "name": "KS Bharat",
+      "shortName": "K Bharat",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BX.png"
+    },
+    "6JX": {
+      "id": "6JX",
+      "name": "Toby Albert",
+      "shortName": "T Albert",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/6JX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/6JX.png"
+    },
+    "B7": {
+      "id": "B7",
+      "name": "Shimron Hetmyer",
+      "shortName": "S Hetmyer",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B7.png"
+    },
+    "FD": {
+      "id": "FD",
+      "name": "Kusal Perera",
+      "shortName": "K Perera",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FD.png"
+    },
+    "1SA": {
+      "id": "1SA",
+      "name": "Chris Green",
+      "shortName": "C Green",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1SA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1SA.png"
+    },
+    "APJ": {
+      "id": "APJ",
+      "name": "Harshit Kaushik",
+      "shortName": "H Kaushik",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/APJ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/APJ.png"
+    },
+    "9M": {
+      "id": "9M",
+      "name": "Trent Boult",
+      "shortName": "T Boult",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9M.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9M.png"
+    },
+    "CJ4": {
+      "id": "CJ4",
+      "name": "Haider Razzaq",
+      "shortName": "H Razzaq",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CJ4.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CJ4.png"
+    },
+    "BOV": {
+      "id": "BOV",
+      "name": "Hilal Afghan",
+      "shortName": "H Afghan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BOV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BOV.png"
+    },
+    "D7": {
+      "id": "D7",
+      "name": "Tymal Mills",
+      "shortName": "T Mills",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D7.png"
+    },
+    "AM": {
+      "id": "AM",
+      "name": "Hardus Viljoen",
+      "shortName": "H Viljoen",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/AM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/AM.png"
+    },
+    "HVQ": {
+      "id": "HVQ",
+      "name": "Lethabo Phahlamohlaka",
+      "shortName": "L Phahlamohlaka",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HVQ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HVQ.png"
+    },
+    "5H5": {
+      "id": "5H5",
+      "name": "Rivaldo Moonsamy",
+      "shortName": "R Moonsamy",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5H5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5H5.png"
+    },
+    "1FP": {
+      "id": "1FP",
+      "name": "Keegan Petersen",
+      "shortName": "K Petersen",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1FP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1FP.png"
+    },
+    "YO": {
+      "id": "YO",
+      "name": "Sinethemba Qeshile",
+      "shortName": "S Qeshile",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/YO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/YO.png"
+    },
+    "CFT": {
+      "id": "CFT",
+      "name": "Lhuan-dre Pretorius",
+      "shortName": "L Pretorius",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CFT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CFT.png"
+    },
+    "5ZC": {
+      "id": "5ZC",
+      "name": "Tshepang Dithole",
+      "shortName": "T Dithole",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5ZC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5ZC.png"
+    },
+    "3JG": {
+      "id": "3JG",
+      "name": "Leus du Plooy",
+      "shortName": "L d Plooy",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3JG.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3JG.png"
+    },
+    "2OT": {
+      "id": "2OT",
+      "name": "Donovan Ferreira",
+      "shortName": "D Ferreira",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/2OT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/2OT.png"
+    },
+    "1EP": {
+      "id": "1EP",
+      "name": "Dayyaan Galiem",
+      "shortName": "D Galiem",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1EP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1EP.png"
+    },
+    "73K": {
+      "id": "73K",
+      "name": "Beyers Swanepoel",
+      "shortName": "B Swanepoel",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/73K.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/73K.png"
+    },
+    "DN7": {
+      "id": "DN7",
+      "name": "Keagan Lion-Cachet",
+      "shortName": "K Lion-Cachet",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DN7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DN7.png"
+    },
+    "D6": {
+      "id": "D6",
+      "name": "Tabraiz Shamsi",
+      "shortName": "T Shamsi",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D6.png"
+    },
+    "2OO": {
+      "id": "2OO",
+      "name": "Eathan Bosch",
+      "shortName": "E Bosch",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/2OO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/2OO.png"
+    },
+    "KU": {
+      "id": "KU",
+      "name": "Junior Dala",
+      "shortName": "J Dala",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/KU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/KU.png"
+    },
+    "5HP": {
+      "id": "5HP",
+      "name": "Tsepo Ndwandwa",
+      "shortName": "T Ndwandwa",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5HP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5HP.png"
+    },
+    "5TF": {
+      "id": "5TF",
+      "name": "Duan Jansen",
+      "shortName": "D Jansen",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5TF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5TF.png"
+    },
+    "76I": {
+      "id": "76I",
+      "name": "Aphiwe Mnyanda",
+      "shortName": "A Mnyanda",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/76I.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/76I.png"
+    },
+    "LVE": {
+      "id": "LVE",
+      "name": "Janco Smit",
+      "shortName": "J Smit",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LVE.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LVE.png"
+    },
+    "DCM": {
+      "id": "DCM",
+      "name": "Esosa Aihevba",
+      "shortName": "E Aihevba",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DCM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/69.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DCM.png"
+    },
+    "NC5": {
+      "id": "NC5",
+      "name": "Ntando Zuma",
+      "shortName": "N Zuma",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NC5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NC5.png"
+    },
+    "1G5": {
+      "id": "1G5",
+      "name": "Jason Smith",
+      "shortName": "J Smith",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1G5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1G5.png"
+    },
+    "73H": {
+      "id": "73H",
+      "name": "Hanu Viljoen",
+      "shortName": "H Viljoen",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/73H.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/73H.png"
+    },
+    "M32": {
+      "id": "M32",
+      "name": "Gomolemo Phiri",
+      "shortName": "G Phiri",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M32.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M32.png"
+    },
+    "OA": {
+      "id": "OA",
+      "name": "Khaya Zondo",
+      "shortName": "K Zondo",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/OA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/OA.png"
+    },
+    "1F2": {
+      "id": "1F2",
+      "name": "Grant Roelofsen",
+      "shortName": "G Roelofsen",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1F2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1F2.png"
+    },
+    "1FE": {
+      "id": "1FE",
+      "name": "Marques Ackerman",
+      "shortName": "M Ackerman",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1FE.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1FE.png"
+    },
+    "14L": {
+      "id": "14L",
+      "name": "Bryce Parsons",
+      "shortName": "B Parsons",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/14L.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/14L.png"
+    },
+    "HVE": {
+      "id": "HVE",
+      "name": "Sean Murray Gilson",
+      "shortName": "S M Gilson",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HVE.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HVE.png"
+    },
+    "5I3": {
+      "id": "5I3",
+      "name": "Andile Simelane",
+      "shortName": "A Simelane",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5I3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5I3.png"
+    },
+    "1FF": {
+      "id": "1FF",
+      "name": "Prenelan Subrayen",
+      "shortName": "P Subrayen",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1FF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1FF.png"
+    },
+    "CFU": {
+      "id": "CFU",
+      "name": "Romashan Pillay",
+      "shortName": "R Pillay",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CFU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CFU.png"
+    },
+    "NQV": {
+      "id": "NQV",
+      "name": "Semal Pillay",
+      "shortName": "S Pillay",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NQV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NQV.png"
+    },
+    "HC": {
+      "id": "HC",
+      "name": "Keshav Maharaj",
+      "shortName": "K Maharaj",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HC.png"
+    },
+    "COV": {
+      "id": "COV",
+      "name": "Tristan Luus",
+      "shortName": "T Luus",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/COV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/COV.png"
+    },
+    "DCQ": {
+      "id": "DCQ",
+      "name": "Nqobani Mokoena",
+      "shortName": "N Mokoena",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DCQ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DCQ.png"
+    },
+    "1G0": {
+      "id": "1G0",
+      "name": "Ottneil Baartman",
+      "shortName": "O Baartman",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1G0.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1G0.png"
+    },
+    "1FS": {
+      "id": "1FS",
+      "name": "Okuhle Cele",
+      "shortName": "O Cele",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1FS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1FS.png"
+    },
+    "1FT": {
+      "id": "1FT",
+      "name": "Keith Dudgeon",
+      "shortName": "K Dudgeon",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1FT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1FT.png"
+    },
+    "KKC": {
+      "id": "KKC",
+      "name": "Buyanda Majola",
+      "shortName": "B Majola",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/KKC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/6A.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/KKC.png"
+    },
+    "HA": {
+      "id": "HA",
+      "name": "Nurul Hasan",
+      "shortName": "N Hasan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HA.png"
+    },
+    "DF2": {
+      "id": "DF2",
+      "name": "Habibur Rahman Sohan",
+      "shortName": "H R Sohan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DF2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DF2.png"
+    },
+    "KEV": {
+      "id": "KEV",
+      "name": "Noor ul Rahman",
+      "shortName": "N u Rahman",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/KEV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/KEV.png"
+    },
+    "H6": {
+      "id": "H6",
+      "name": "Fakhar Zaman",
+      "shortName": "F Zaman",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/H6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/H6.png"
+    },
+    "4Q6": {
+      "id": "4Q6",
+      "name": "Zeeshan Naseer",
+      "shortName": "Z Naseer",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4Q6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4Q6.png"
+    },
+    "10Z": {
+      "id": "10Z",
+      "name": "Iftikhar Ahmed",
+      "shortName": "I Ahmed",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/10Z.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/10Z.png"
+    },
+    "HT": {
+      "id": "HT",
+      "name": "Faheem Ashraf",
+      "shortName": "F Ashraf",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HT.png"
+    },
+    "D2D": {
+      "id": "D2D",
+      "name": "Awais Ali Shah",
+      "shortName": "A A Shah",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D2D.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D2D.png"
+    },
+    "1CG": {
+      "id": "1CG",
+      "name": "Azmatullah Omarzai",
+      "shortName": "A Omarzai",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1CG.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1CG.png"
+    },
+    "LZ": {
+      "id": "LZ",
+      "name": "Mahedi Hasan",
+      "shortName": "M Hasan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LZ.png"
+    },
+    "15S": {
+      "id": "15S",
+      "name": "Shamim Hossain",
+      "shortName": "S Hossain",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/15S.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/15S.png"
+    },
+    "IBX": {
+      "id": "IBX",
+      "name": "Adithya Shetty",
+      "shortName": "A Shetty",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/IBX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/IBX.png"
+    },
+    "G63": {
+      "id": "G63",
+      "name": "Noorullah Ayubi",
+      "shortName": "N Ayubi",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/G63.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/G63.png"
+    },
+    "AZ8": {
+      "id": "AZ8",
+      "name": "Sufyan Moqim",
+      "shortName": "S Moqim",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/AZ8.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/AZ8.png"
+    },
+    "98Z": {
+      "id": "98Z",
+      "name": "Yasin Patel",
+      "shortName": "Y Patel",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/98Z.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/98Z.png"
+    },
+    "18X": {
+      "id": "18X",
+      "name": "Abbas Afridi",
+      "shortName": "A Afridi",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/18X.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/18X.png"
+    },
+    "L2": {
+      "id": "L2",
+      "name": "Paul van Meekeren",
+      "shortName": "P v Meekeren",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/L2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/L2.png"
+    },
+    "1HU": {
+      "id": "1HU",
+      "name": "Aneurin Donald",
+      "shortName": "A Donald",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1HU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1HU.png"
+    },
+    "JR": {
+      "id": "JR",
+      "name": "Andre Fletcher",
+      "shortName": "A Fletcher",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/JR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/JR.png"
+    },
+    "B57": {
+      "id": "B57",
+      "name": "Khawaja Nafay",
+      "shortName": "K Nafay",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B57.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B57.png"
+    },
+    "1ZX": {
+      "id": "1ZX",
+      "name": "Max Bryant",
+      "shortName": "M Bryant",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1ZX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1ZX.png"
+    },
+    "1D2": {
+      "id": "1D2",
+      "name": "Azam Khan",
+      "shortName": "A Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1D2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1D2.png"
+    },
+    "5R": {
+      "id": "5R",
+      "name": "Kieron Pollard",
+      "shortName": "K Pollard",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5R.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5R.png"
+    },
+    "5K": {
+      "id": "5K",
+      "name": "Sunil Narine",
+      "shortName": "S Narine",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5K.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5K.png"
+    },
+    "1CR": {
+      "id": "1CR",
+      "name": "Romario Shepherd",
+      "shortName": "R Shepherd",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1CR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1CR.png"
+    },
+    "13R": {
+      "id": "13R",
+      "name": "Khushdil Shah",
+      "shortName": "K Shah",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/13R.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/13R.png"
+    },
+    "D7S": {
+      "id": "D7S",
+      "name": "Uddish Suri",
+      "shortName": "U Suri",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D7S.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D7S.png"
+    },
+    "GE": {
+      "id": "GE",
+      "name": "Shadab Khan",
+      "shortName": "S Khan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/GE.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/GE.png"
+    },
+    "A5R": {
+      "id": "A5R",
+      "name": "Muhammad Rohid Khan",
+      "shortName": "M R Khan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/A5R.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/A5R.png"
+    },
+    "J7H": {
+      "id": "J7H",
+      "name": "Tahir Zaman",
+      "shortName": "T Zaman",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/J7H.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/J7H.png"
+    },
+    "HH": {
+      "id": "HH",
+      "name": "Mohammad Amir",
+      "shortName": "M Amir",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HH.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HH.png"
+    },
+    "5GC": {
+      "id": "5GC",
+      "name": "Nuwan Thushara",
+      "shortName": "N Thushara",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5GC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5GC.png"
+    },
+    "18O": {
+      "id": "18O",
+      "name": "Mohammad Wasim Jnr",
+      "shortName": "M W Jnr",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/18O.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/18O.png"
+    },
+    "8OG": {
+      "id": "8OG",
+      "name": "Bradley James Currie",
+      "shortName": "B J Currie",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8OG.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/78.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8OG.png"
+    },
+    "1IL": {
+      "id": "1IL",
+      "name": "Tom Kohler-Cadmore",
+      "shortName": "T Kohler-Cadmore",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1IL.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1IL.png"
+    },
+    "CD": {
+      "id": "CD",
+      "name": "Sam Billings",
+      "shortName": "S Billings",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CD.png"
+    },
+    "16Q": {
+      "id": "16Q",
+      "name": "Vriitya Aravind",
+      "shortName": "V Aravind",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/16Q.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/16Q.png"
+    },
+    "AET": {
+      "id": "AET",
+      "name": "Quentin Sampson",
+      "shortName": "Q Sampson",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/AET.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/AET.png"
+    },
+    "B8": {
+      "id": "B8",
+      "name": "Moeen Ali",
+      "shortName": "M Ali",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B8.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B8.png"
+    },
+    "DB": {
+      "id": "DB",
+      "name": "Liam Livingstone",
+      "shortName": "L Livingstone",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DB.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DB.png"
+    },
+    "4U": {
+      "id": "4U",
+      "name": "Andre Russell",
+      "shortName": "A Russell",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4U.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4U.png"
+    },
+    "1BR": {
+      "id": "1BR",
+      "name": "Paul Walter",
+      "shortName": "P Walter",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1BR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1BR.png"
+    },
+    "NG": {
+      "id": "NG",
+      "name": "Dwaine Pretorius",
+      "shortName": "D Pretorius",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NG.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NG.png"
+    },
+    "7XP": {
+      "id": "7XP",
+      "name": "Dunith Wellalage",
+      "shortName": "D Wellalage",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7XP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7XP.png"
+    },
+    "G2I": {
+      "id": "G2I",
+      "name": "Muhammad Arfan",
+      "shortName": "M Arfan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/G2I.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/G2I.png"
+    },
+    "1JM": {
+      "id": "1JM",
+      "name": "Richard Gleeson",
+      "shortName": "R Gleeson",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1JM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1JM.png"
+    },
+    "IK": {
+      "id": "IK",
+      "name": "Alzarri Joseph",
+      "shortName": "A Joseph",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/IK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/IK.png"
+    },
+    "1MB": {
+      "id": "1MB",
+      "name": "Salman Irshad",
+      "shortName": "S Irshad",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1MB.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LI.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1MB.png"
+    },
+    "1CU": {
+      "id": "1CU",
+      "name": "Philip Salt",
+      "shortName": "P Salt",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1CU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1CU.png"
+    },
+    "3DX": {
+      "id": "3DX",
+      "name": "Muhammad Waseem",
+      "shortName": "M Waseem",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3DX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3DX.png"
+    },
+    "1CQ": {
+      "id": "1CQ",
+      "name": "Brandon King",
+      "shortName": "B King",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1CQ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1CQ.png"
+    },
+    "IBW": {
+      "id": "IBW",
+      "name": "Raizal Nadir",
+      "shortName": "R Nadir",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/IBW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/IBW.png"
+    },
+    "B6": {
+      "id": "B6",
+      "name": "Nicholas Pooran",
+      "shortName": "N Pooran",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B6.png"
+    },
+    "EH": {
+      "id": "EH",
+      "name": "Sherfane Rutherford",
+      "shortName": "S Rutherford",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/EH.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/EH.png"
+    },
+    "7TJ": {
+      "id": "7TJ",
+      "name": "Aayan Afzal Khan",
+      "shortName": "A A Khan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7TJ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7TJ.png"
+    },
+    "ME": {
+      "id": "ME",
+      "name": "Gulbadin Naib",
+      "shortName": "G Naib",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/ME.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/ME.png"
+    },
+    "7NM": {
+      "id": "7NM",
+      "name": "Janith Liyanage",
+      "shortName": "J Liyanage",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7NM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7NM.png"
+    },
+    "CO": {
+      "id": "CO",
+      "name": "Keemo Paul",
+      "shortName": "K Paul",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CO.png"
+    },
+    "7TE": {
+      "id": "7TE",
+      "name": "Dhruv Parashar",
+      "shortName": "D Parashar",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7TE.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7TE.png"
+    },
+    "4O2": {
+      "id": "4O2",
+      "name": "Tajinder Singh",
+      "shortName": "T Singh",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4O2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4O2.png"
+    },
+    "4XS": {
+      "id": "4XS",
+      "name": "Maheesh Theekshana",
+      "shortName": "M Theekshana",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4XS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4XS.png"
+    },
+    "13T": {
+      "id": "13T",
+      "name": "Naseem Shah",
+      "shortName": "N Shah",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/13T.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/13T.png"
+    },
+    "IY": {
+      "id": "IY",
+      "name": "Dushmantha Chameera",
+      "shortName": "D Chameera",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/IY.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/IY.png"
+    },
+    "1C3": {
+      "id": "1C3",
+      "name": "Luke Wood",
+      "shortName": "L Wood",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1C3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1C3.png"
+    },
+    "AO": {
+      "id": "AO",
+      "name": "Chris Jordan",
+      "shortName": "C Jordan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/AO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/limited/org/1LL.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/AO.png"
+    },
+    "F2": {
+      "id": "F2",
+      "name": "Babar Azam",
+      "shortName": "B Azam",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/F2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/U.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/F2.png"
+    },
+    "7N1": {
+      "id": "7N1",
+      "name": "Ghazi Ghori",
+      "shortName": "G Ghori",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7N1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7N1.png"
+    },
+    "7EH": {
+      "id": "7EH",
+      "name": "Mohammad Suleman",
+      "shortName": "M Suleman",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7EH.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/U.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7EH.png"
+    },
+    "MAS": {
+      "id": "MAS",
+      "name": "Sameer Minhas",
+      "shortName": "S Minhas",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MAS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MAS.png"
+    },
+    "9LY": {
+      "id": "9LY",
+      "name": "Mohammad Tayyab Arif",
+      "shortName": "M T Arif",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9LY.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9LY.png"
+    },
+    "9M1": {
+      "id": "9M1",
+      "name": "Azan Awais",
+      "shortName": "A Awais",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9M1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9M1.png"
+    },
+    "4QP": {
+      "id": "4QP",
+      "name": "Saud Shakeel",
+      "shortName": "S Shakeel",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4QP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4QP.png"
+    },
+    "9T4": {
+      "id": "9T4",
+      "name": "Saad Baig",
+      "shortName": "S Baig",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9T4.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9T4.png"
+    },
+    "9ME": {
+      "id": "9ME",
+      "name": "Arafat Minhas",
+      "shortName": "A Minhas",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9ME.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9ME.png"
+    },
+    "4QQ": {
+      "id": "4QQ",
+      "name": "Mohammad Taha",
+      "shortName": "M Taha",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4QQ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/U.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4QQ.png"
+    },
+    "3CD": {
+      "id": "3CD",
+      "name": "Salman Ali Agha",
+      "shortName": "S A Agha",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3CD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/U.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3CD.png"
+    },
+    "FQ4": {
+      "id": "FQ4",
+      "name": "Ali Shabbir",
+      "shortName": "A Shabbir",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQ4.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQ4.png"
+    },
+    "M5D": {
+      "id": "M5D",
+      "name": "Razaullah",
+      "shortName": "Razaullah",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M5D.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M5D.png"
+    },
+    "IT": {
+      "id": "IT",
+      "name": "Mohammad Abbas",
+      "shortName": "M Abbas",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/IT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/U.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/IT.png"
+    },
+    "CYC": {
+      "id": "CYC",
+      "name": "Saqib Khan",
+      "shortName": "S Khan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CYC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CYC.png"
+    },
+    "4XE": {
+      "id": "4XE",
+      "name": "Lahiru Udara",
+      "shortName": "L Udara",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4XE.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4XE.png"
+    },
+    "BTZ": {
+      "id": "BTZ",
+      "name": "Pasindu Sooriyabandara",
+      "shortName": "P Sooriyabandara",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BTZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BTZ.png"
+    },
+    "F5": {
+      "id": "F5",
+      "name": "Kusal Mendis",
+      "shortName": "K Mendis",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/F5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/F5.png"
+    },
+    "6B": {
+      "id": "6B",
+      "name": "Dinesh Chandimal",
+      "shortName": "D Chandimal",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/6B.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/6B.png"
+    },
+    "7XR": {
+      "id": "7XR",
+      "name": "Anjala Bandara",
+      "shortName": "A Bandara",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7XR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7XR.png"
+    },
+    "O22": {
+      "id": "O22",
+      "name": "Keshara Nuwantha",
+      "shortName": "K Nuwantha",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/O22.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/O22.png"
+    },
+    "FM": {
+      "id": "FM",
+      "name": "Dhananjaya de Silva",
+      "shortName": "D d Silva",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FM.png"
+    },
+    "LN": {
+      "id": "LN",
+      "name": "Kamindu Mendis",
+      "shortName": "K Mendis",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LN.png"
+    },
+    "17H": {
+      "id": "17H",
+      "name": "Sonal Dinusha",
+      "shortName": "S Dinusha",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/17H.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/17H.png"
+    },
+    "NX": {
+      "id": "NX",
+      "name": "Prabath Jayasuriya",
+      "shortName": "P Jayasuriya",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NX.png"
+    },
+    "J4": {
+      "id": "J4",
+      "name": "Lahiru Kumara",
+      "shortName": "L Kumara",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/J4.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/J4.png"
+    },
+    "1JR": {
+      "id": "1JR",
+      "name": "Asitha Fernando",
+      "shortName": "A Fernando",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1JR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1JR.png"
+    },
+    "94V": {
+      "id": "94V",
+      "name": "Milan Rathnayake",
+      "shortName": "M Rathnayake",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/94V.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/94V.png"
+    },
+    "17J": {
+      "id": "17J",
+      "name": "Dilshan Madushanka",
+      "shortName": "D Madushanka",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/17J.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/T.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/17J.png"
+    },
+    "5XS": {
+      "id": "5XS",
+      "name": "Saim Ayub",
+      "shortName": "S Ayub",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5XS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5XS.png"
+    },
+    "3EL": {
+      "id": "3EL",
+      "name": "Danish Aziz",
+      "shortName": "D Aziz",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3EL.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3EL.png"
+    },
+    "CN9": {
+      "id": "CN9",
+      "name": "Rameez Aziz",
+      "shortName": "R Aziz",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CN9.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CN9.png"
+    },
+    "L6": {
+      "id": "L6",
+      "name": "Usman Khan",
+      "shortName": "U Khan",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/L6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/L6.png"
+    },
+    "9PC": {
+      "id": "9PC",
+      "name": "Haroon Arshad",
+      "shortName": "H Arshad",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9PC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9PC.png"
+    },
+    "9P6": {
+      "id": "9P6",
+      "name": "Afnan Khan",
+      "shortName": "A Khan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9P6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9P6.png"
+    },
+    "1XF": {
+      "id": "1XF",
+      "name": "Mohammad Asghar",
+      "shortName": "M Asghar",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1XF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1XF.png"
+    },
+    "60G": {
+      "id": "60G",
+      "name": "Muhammad Umar",
+      "shortName": "M Umar",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/60G.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/60G.png"
+    },
+    "FRT": {
+      "id": "FRT",
+      "name": "Mohammad Hamza Sohail",
+      "shortName": "M H Sohail",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FRT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FRT.png"
+    },
+    "N51": {
+      "id": "N51",
+      "name": "Mohammad Raza",
+      "shortName": "M Raza",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/N51.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/N51.png"
+    },
+    "FN": {
+      "id": "FN",
+      "name": "Shan Masood",
+      "shortName": "S Masood",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FN.png"
+    },
+    "36F": {
+      "id": "36F",
+      "name": "Abrar Ahmed",
+      "shortName": "A Ahmed",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/36F.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/36F.png"
+    },
+    "9PF": {
+      "id": "9PF",
+      "name": "Wahaj Riaz",
+      "shortName": "W Riaz",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9PF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9PF.png"
+    },
+    "FQM": {
+      "id": "FQM",
+      "name": "Abdullah Fazal",
+      "shortName": "A Fazal",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQM.png"
+    },
+    "GN": {
+      "id": "GN",
+      "name": "Mir Hamza",
+      "shortName": "M Hamza",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/GN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/GN.png"
+    },
+    "QLU": {
+      "id": "QLU",
+      "name": "Abdul Basit",
+      "shortName": "A Basit",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QLU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TG.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QLU.png"
+    },
+    "FW": {
+      "id": "FW",
+      "name": "Imam-ul-Haq",
+      "shortName": "Imam-ul-Haq",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FW.png"
+    },
+    "9M0": {
+      "id": "9M0",
+      "name": "Uzair Mumtaz",
+      "shortName": "U Mumtaz",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9M0.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9M0.png"
+    },
+    "7GL": {
+      "id": "7GL",
+      "name": "Yousuf Babar",
+      "shortName": "Y Babar",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7GL.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7GL.png"
+    },
+    "NFR": {
+      "id": "NFR",
+      "name": "Moheer Saeed",
+      "shortName": "M Saeed",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/NFR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/NFR.png"
+    },
+    "77I": {
+      "id": "77I",
+      "name": "Sharoon Siraj",
+      "shortName": "S Siraj",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/77I.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/77I.png"
+    },
+    "FPR": {
+      "id": "FPR",
+      "name": "Waseem Akram Jnr",
+      "shortName": "W A Jnr",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FPR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FPR.png"
+    },
+    "FPP": {
+      "id": "FPP",
+      "name": "Mohammad Ismail",
+      "shortName": "M Ismail",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FPP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FPP.png"
+    },
+    "9M5": {
+      "id": "9M5",
+      "name": "Mohammad Shan",
+      "shortName": "M Shan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9M5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9M5.png"
+    },
+    "1DT": {
+      "id": "1DT",
+      "name": "Aamer Yamin",
+      "shortName": "A Yamin",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1DT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1DT.png"
+    },
+    "LYJ": {
+      "id": "LYJ",
+      "name": "Hasan Hafeez",
+      "shortName": "H Hafeez",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LYJ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LYJ.png"
+    },
+    "18A": {
+      "id": "18A",
+      "name": "Muhammad Shahzad",
+      "shortName": "M Shahzad",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/18A.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/18A.png"
+    },
+    "8I2": {
+      "id": "8I2",
+      "name": "Waqar Hussain",
+      "shortName": "W Hussain",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8I2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/68.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8I2.png"
+    },
+    "4QM": {
+      "id": "4QM",
+      "name": "Abdullah Shafique",
+      "shortName": "A Shafique",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4QM.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4QM.png"
+    },
+    "A55": {
+      "id": "A55",
+      "name": "Hamza Sheraz",
+      "shortName": "H Sheraz",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/A55.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/A55.png"
+    },
+    "17Y": {
+      "id": "17Y",
+      "name": "Mohammad Huraira",
+      "shortName": "M Huraira",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/17Y.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/17Y.png"
+    },
+    "DEZ": {
+      "id": "DEZ",
+      "name": "Ahmad Hassan",
+      "shortName": "A Hassan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DEZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DEZ.png"
+    },
+    "FPU": {
+      "id": "FPU",
+      "name": "Mohsin Riaz",
+      "shortName": "M Riaz",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FPU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FPU.png"
+    },
+    "FPT": {
+      "id": "FPT",
+      "name": "Abdul Rehman",
+      "shortName": "A Rehman",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FPT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FPT.png"
+    },
+    "CYO": {
+      "id": "CYO",
+      "name": "Hamza Nazar",
+      "shortName": "H Nazar",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CYO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CYO.png"
+    },
+    "7DV": {
+      "id": "7DV",
+      "name": "Mohammad Ali",
+      "shortName": "M Ali",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7DV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7DV.png"
+    },
+    "HQ": {
+      "id": "HQ",
+      "name": "Hasan Ali",
+      "shortName": "H Ali",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HQ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HQ.png"
+    },
+    "13P": {
+      "id": "13P",
+      "name": "Amad Butt",
+      "shortName": "A Butt",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/13P.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/13P.png"
+    },
+    "CVU": {
+      "id": "CVU",
+      "name": "Shahzaib Bhatti",
+      "shortName": "S Bhatti",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CVU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CVU.png"
+    },
+    "FP1": {
+      "id": "FP1",
+      "name": "Afzal Manzoor",
+      "shortName": "A Manzoor",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FP1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FP1.png"
+    },
+    "CYP": {
+      "id": "CYP",
+      "name": "Shoaib Akhtar Jnr",
+      "shortName": "S A Jnr",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CYP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TM.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CYP.png"
+    },
+    "7MX": {
+      "id": "7MX",
+      "name": "Irfan Khan Niazi",
+      "shortName": "I K Niazi",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7MX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7MX.png"
+    },
+    "CMY": {
+      "id": "CMY",
+      "name": "Abdul Samad",
+      "shortName": "A Samad",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CMY.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CMY.png"
+    },
+    "1CW": {
+      "id": "1CW",
+      "name": "Ahmed Safi Abdullah",
+      "shortName": "A S Abdullah",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1CW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1CW.png"
+    },
+    "7MU": {
+      "id": "7MU",
+      "name": "Ali Asfand",
+      "shortName": "A Asfand",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7MU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7MU.png"
+    },
+    "7MO": {
+      "id": "7MO",
+      "name": "Ali Shan",
+      "shortName": "A Shan",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7MO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7MO.png"
+    },
+    "9KS": {
+      "id": "9KS",
+      "name": "Asad Raza",
+      "shortName": "A Raza",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9KS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9KS.png"
+    },
+    "B01": {
+      "id": "B01",
+      "name": "Asim Ali Nasir",
+      "shortName": "A A Nasir",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B01.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B01.png"
+    },
+    "CUJ": {
+      "id": "CUJ",
+      "name": "Atiq-ur-Rehman",
+      "shortName": "Atiq-ur-Rehman",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CUJ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CUJ.png"
+    },
+    "B1U": {
+      "id": "B1U",
+      "name": "Faham ul Haq",
+      "shortName": "F u Haq",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B1U.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B1U.png"
+    },
+    "7J0": {
+      "id": "7J0",
+      "name": "Khurram Shahzad",
+      "shortName": "K Shahzad",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7J0.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7J0.png"
+    },
+    "QHW": {
+      "id": "QHW",
+      "name": "Malik Abdul Rafay",
+      "shortName": "M A Rafay",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QHW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QHW.png"
+    },
+    "3YP": {
+      "id": "3YP",
+      "name": "Awais Zafar",
+      "shortName": "A Zafar",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3YP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3YP.png"
+    },
+    "LDO": {
+      "id": "LDO",
+      "name": "Sameer Saqib",
+      "shortName": "S Saqib",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LDO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LDO.png"
+    },
+    "CPQ": {
+      "id": "CPQ",
+      "name": "Shahzad Gul",
+      "shortName": "S Gul",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CPQ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CPQ.png"
+    },
+    "MAY": {
+      "id": "MAY",
+      "name": "Daniyal Ali Khan",
+      "shortName": "D A Khan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MAY.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MAY.png"
+    },
+    "LXU": {
+      "id": "LXU",
+      "name": "Mudasar Zunair",
+      "shortName": "M Zunair",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LXU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LXU.png"
+    },
+    "QLX": {
+      "id": "QLX",
+      "name": "Muhammad Afzal",
+      "shortName": "M Afzal",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QLX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/SW.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QLX.png"
+    },
+    "6C7": {
+      "id": "6C7",
+      "name": "Muhammad Imran Randhawa",
+      "shortName": "M I Randhawa",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/6C7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/6C7.png"
+    },
+    "CX5": {
+      "id": "CX5",
+      "name": "Mohammad Ammar",
+      "shortName": "M Ammar",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CX5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CX5.png"
+    },
+    "CX2": {
+      "id": "CX2",
+      "name": "Aun Shehzad",
+      "shortName": "A Shehzad",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CX2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CX2.png"
+    },
+    "FQS": {
+      "id": "FQS",
+      "name": "Ali Hamza Wasim",
+      "shortName": "A H Wasim",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQS.png"
+    },
+    "HIK": {
+      "id": "HIK",
+      "name": "Mohammad Sudais",
+      "shortName": "M Sudais",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HIK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HIK.png"
+    },
+    "FRY": {
+      "id": "FRY",
+      "name": "Mohammad Alamgir",
+      "shortName": "M Alamgir",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FRY.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FRY.png"
+    },
+    "FQ2": {
+      "id": "FQ2",
+      "name": "Mohammad Sheharyar",
+      "shortName": "M Sheharyar",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQ2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQ2.png"
+    },
+    "G2W": {
+      "id": "G2W",
+      "name": "Ali Afzal",
+      "shortName": "A Afzal",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/G2W.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/G2W.png"
+    },
+    "B20": {
+      "id": "B20",
+      "name": "Mohammad Umair",
+      "shortName": "M Umair",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B20.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B20.png"
+    },
+    "M44": {
+      "id": "M44",
+      "name": "Mohammad Akram",
+      "shortName": "M Akram",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M44.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M44.png"
+    },
+    "M1H": {
+      "id": "M1H",
+      "name": "Mohammad Junaid",
+      "shortName": "M Junaid",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M1H.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M1H.png"
+    },
+    "H5B": {
+      "id": "H5B",
+      "name": "Mohammad Azab",
+      "shortName": "M Azab",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/H5B.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/H5B.png"
+    },
+    "N7M": {
+      "id": "N7M",
+      "name": "Mohammad Basit",
+      "shortName": "M Basit",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/N7M.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/N7M.png"
+    },
+    "FRZ": {
+      "id": "FRZ",
+      "name": "Shoaib Manzoor",
+      "shortName": "S Manzoor",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FRZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FRZ.png"
+    },
+    "M75": {
+      "id": "M75",
+      "name": "Rana Burhan Basharat",
+      "shortName": "R B Basharat",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M75.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M75.png"
+    },
+    "CX3": {
+      "id": "CX3",
+      "name": "Mohammad Faizan Zafar",
+      "shortName": "M F Zafar",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CX3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CX3.png"
+    },
+    "1MD": {
+      "id": "1MD",
+      "name": "Muhammad Faizan",
+      "shortName": "M Faizan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1MD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1MD.png"
+    },
+    "9M3": {
+      "id": "9M3",
+      "name": "Hasnain Majid",
+      "shortName": "H Majid",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9M3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9M3.png"
+    },
+    "M74": {
+      "id": "M74",
+      "name": "Muhammad Younis",
+      "shortName": "M Younis",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M74.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M74.png"
+    },
+    "CXZ": {
+      "id": "CXZ",
+      "name": "Mohammad Nabeel Arshad",
+      "shortName": "M N Arshad",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CXZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CXZ.png"
+    },
+    "QM4": {
+      "id": "QM4",
+      "name": "Muhammad Khaqan Bashir",
+      "shortName": "M K Bashir",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QM4.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TP.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QM4.png"
+    },
+    "17Q": {
+      "id": "17Q",
+      "name": "Abdul Wahid Bangalzai",
+      "shortName": "A W Bangalzai",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/17Q.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/17Q.png"
+    },
+    "32I": {
+      "id": "32I",
+      "name": "Bismillah Khan",
+      "shortName": "B Khan",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/32I.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/32I.png"
+    },
+    "CY3": {
+      "id": "CY3",
+      "name": "Salahuddin",
+      "shortName": "Salahuddin",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CY3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CY3.png"
+    },
+    "FQJ": {
+      "id": "FQJ",
+      "name": "Hazrat Wali",
+      "shortName": "H Wali",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQJ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQJ.png"
+    },
+    "CY2": {
+      "id": "CY2",
+      "name": "Nadeem Ahmed",
+      "shortName": "N Ahmed",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CY2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CY2.png"
+    },
+    "7MW": {
+      "id": "7MW",
+      "name": "Haseebullah Khan",
+      "shortName": "H Khan",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7MW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7MW.png"
+    },
+    "71X": {
+      "id": "71X",
+      "name": "Mohammad Ibrahim Snr",
+      "shortName": "M I Snr",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/71X.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/71X.png"
+    },
+    "FWS": {
+      "id": "FWS",
+      "name": "Khalil Ahmed",
+      "shortName": "K Ahmed",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FWS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FWS.png"
+    },
+    "FQT": {
+      "id": "FQT",
+      "name": "Naqeebullah",
+      "shortName": "Naqeebullah",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQT.png"
+    },
+    "CZP": {
+      "id": "CZP",
+      "name": "Zulfiqar Ali",
+      "shortName": "Z Ali",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CZP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CZP.png"
+    },
+    "DGD": {
+      "id": "DGD",
+      "name": "Bilal Ahmed",
+      "shortName": "B Ahmed",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DGD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DGD.png"
+    },
+    "HLN": {
+      "id": "HLN",
+      "name": "Abdul Hameed",
+      "shortName": "A Hameed",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HLN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HLN.png"
+    },
+    "71W": {
+      "id": "71W",
+      "name": "Gohar Faiz",
+      "shortName": "G Faiz",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/71W.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/71W.png"
+    },
+    "FRP": {
+      "id": "FRP",
+      "name": "Yasir Khan Chaman",
+      "shortName": "Y K Chaman",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FRP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FRP.png"
+    },
+    "DRB": {
+      "id": "DRB",
+      "name": "Zainullah Khan",
+      "shortName": "Z Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/DRB.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TH.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/DRB.png"
+    },
+    "3H1": {
+      "id": "3H1",
+      "name": "Umar Siddique",
+      "shortName": "U Siddique",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3H1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3H1.png"
+    },
+    "FTU": {
+      "id": "FTU",
+      "name": "Mohammad Saleem",
+      "shortName": "M Saleem",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FTU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FTU.png"
+    },
+    "CPK": {
+      "id": "CPK",
+      "name": "Hashim Ibrahim",
+      "shortName": "H Ibrahim",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CPK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CPK.png"
+    },
+    "18M": {
+      "id": "18M",
+      "name": "Qasim Akram",
+      "shortName": "Q Akram",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/18M.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/18M.png"
+    },
+    "9LT": {
+      "id": "9LT",
+      "name": "Ali Razzaq",
+      "shortName": "A Razzaq",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9LT.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9LT.png"
+    },
+    "CWF": {
+      "id": "CWF",
+      "name": "Ali Hassan Baloch",
+      "shortName": "A H Baloch",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CWF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CWF.png"
+    },
+    "9LR": {
+      "id": "9LR",
+      "name": "Obaid Shahid",
+      "shortName": "O Shahid",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9LR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9LR.png"
+    },
+    "M5E": {
+      "id": "M5E",
+      "name": "Khawaja Mohammad Abdullah",
+      "shortName": "K M Abdullah",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M5E.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M5E.png"
+    },
+    "13S": {
+      "id": "13S",
+      "name": "Usman Qadir",
+      "shortName": "U Qadir",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/13S.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/13S.png"
+    },
+    "LDA": {
+      "id": "LDA",
+      "name": "Mohammad Salman",
+      "shortName": "M Salman",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LDA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LDA.png"
+    },
+    "B90": {
+      "id": "B90",
+      "name": "Mohammad Zahid II",
+      "shortName": "M Z II",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/B90.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/B90.png"
+    },
+    "4QN": {
+      "id": "4QN",
+      "name": "Ahmed Bashir",
+      "shortName": "A Bashir",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/4QN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/4QN.png"
+    },
+    "7GX": {
+      "id": "7GX",
+      "name": "Nisar Ahmad",
+      "shortName": "N Ahmad",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7GX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7GX.png"
+    },
+    "A7W": {
+      "id": "A7W",
+      "name": "Samama Riaz",
+      "shortName": "S Riaz",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/A7W.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/63.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/A7W.png"
+    },
+    "9OO": {
+      "id": "9OO",
+      "name": "Waqar Ahmed",
+      "shortName": "W Ahmed",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9OO.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9OO.png"
+    },
+    "86X": {
+      "id": "86X",
+      "name": "Abbas Ali",
+      "shortName": "A Ali",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/86X.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/86X.png"
+    },
+    "1EC": {
+      "id": "1EC",
+      "name": "Adil Amin",
+      "shortName": "A Amin",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1EC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1EC.png"
+    },
+    "CUL": {
+      "id": "CUL",
+      "name": "Mujtaba Khan",
+      "shortName": "M Khan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CUL.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CUL.png"
+    },
+    "BH8": {
+      "id": "BH8",
+      "name": "Abuzar Tariq",
+      "shortName": "A Tariq",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BH8.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BH8.png"
+    },
+    "1EB": {
+      "id": "1EB",
+      "name": "Mohammad Ilyas",
+      "shortName": "M Ilyas",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1EB.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1EB.png"
+    },
+    "6JP": {
+      "id": "6JP",
+      "name": "Mohammad Imran Jnr",
+      "shortName": "M I Jnr",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/6JP.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/6JP.png"
+    },
+    "LYK": {
+      "id": "LYK",
+      "name": "Muhammed Abuzar",
+      "shortName": "M Abuzar",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LYK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LYK.png"
+    },
+    "9MF": {
+      "id": "9MF",
+      "name": "Shoaib Afridi",
+      "shortName": "S Afridi",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9MF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9MF.png"
+    },
+    "CUK": {
+      "id": "CUK",
+      "name": "Azam Khan JNR",
+      "shortName": "A K JNR",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CUK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CUK.png"
+    },
+    "CZW": {
+      "id": "CZW",
+      "name": "Usman Tariq",
+      "shortName": "U Tariq",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CZW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CZW.png"
+    },
+    "9A4": {
+      "id": "9A4",
+      "name": "Ihsanullah",
+      "shortName": "Ihsanullah",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9A4.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9A4.png"
+    },
+    "QMF": {
+      "id": "QMF",
+      "name": "Haris Khan",
+      "shortName": "H Khan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QMF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QMF.png"
+    },
+    "QMG": {
+      "id": "QMG",
+      "name": "Adil Khan",
+      "shortName": "A Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QMG.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QMG.png"
+    },
+    "BFF": {
+      "id": "BFF",
+      "name": "Abubakar Khan",
+      "shortName": "A Khan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/BFF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/1LR.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/BFF.png"
+    },
+    "1D5": {
+      "id": "1D5",
+      "name": "Zahid Mahmood",
+      "shortName": "Z Mahmood",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1D5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1D5.png"
+    },
+    "N5F": {
+      "id": "N5F",
+      "name": "Malhar Rasool",
+      "shortName": "M Rasool",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/N5F.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/N5F.png"
+    },
+    "CZR": {
+      "id": "CZR",
+      "name": "Aqeel Danish",
+      "shortName": "A Danish",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CZR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CZR.png"
+    },
+    "D0A": {
+      "id": "D0A",
+      "name": "Sabit Ali",
+      "shortName": "S Ali",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D0A.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D0A.png"
+    },
+    "CWY": {
+      "id": "CWY",
+      "name": "Ghulam Raza",
+      "shortName": "G Raza",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CWY.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CWY.png"
+    },
+    "D08": {
+      "id": "D08",
+      "name": "Faraz Aziz",
+      "shortName": "F Aziz",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D08.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D08.png"
+    },
+    "CX7": {
+      "id": "CX7",
+      "name": "Asif Ali Jnr",
+      "shortName": "A A Jnr",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CX7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CX7.png"
+    },
+    "5XR": {
+      "id": "5XR",
+      "name": "Shahnawaz Dahani",
+      "shortName": "S Dahani",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/5XR.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/5XR.png"
+    },
+    "CZS": {
+      "id": "CZS",
+      "name": "Mushtaq Ahmed Kalhoro",
+      "shortName": "M A Kalhoro",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CZS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CZS.png"
+    },
+    "9MB": {
+      "id": "9MB",
+      "name": "Saqlain Nawaz",
+      "shortName": "S Nawaz",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9MB.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9MB.png"
+    },
+    "A74": {
+      "id": "A74",
+      "name": "Muhammad Mustafa",
+      "shortName": "M Mustafa",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/A74.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/A74.png"
+    },
+    "CWZ": {
+      "id": "CWZ",
+      "name": "Mohsin Raza",
+      "shortName": "M Raza",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CWZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CWZ.png"
+    },
+    "FP3": {
+      "id": "FP3",
+      "name": "Shahzaib Aziz",
+      "shortName": "S Aziz",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FP3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FP3.png"
+    },
+    "CWW": {
+      "id": "CWW",
+      "name": "Umar Khalid",
+      "shortName": "U Khalid",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CWW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CWW.png"
+    },
+    "QM1": {
+      "id": "QM1",
+      "name": "Ishfaque Ahmed",
+      "shortName": "I Ahmed",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QM1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QM1.png"
+    },
+    "QM3": {
+      "id": "QM3",
+      "name": "Muhammad Ibrahim",
+      "shortName": "M Ibrahim",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QM3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TF.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QM3.png"
+    },
+    "LU": {
+      "id": "LU",
+      "name": "Mohammad Nawaz",
+      "shortName": "M Nawaz",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LU.png"
+    },
+    "87M": {
+      "id": "87M",
+      "name": "Yasir Khan",
+      "shortName": "Y Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/87M.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/87M.png"
+    },
+    "7H7": {
+      "id": "7H7",
+      "name": "Abdul Faseeh",
+      "shortName": "A Faseeh",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7H7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7H7.png"
+    },
+    "FPQ": {
+      "id": "FPQ",
+      "name": "Affan Ishaq",
+      "shortName": "A Ishaq",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FPQ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FPQ.png"
+    },
+    "3C6": {
+      "id": "3C6",
+      "name": "Nasir Nawaz",
+      "shortName": "N Nawaz",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3C6.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3C6.png"
+    },
+    "7HA": {
+      "id": "7HA",
+      "name": "Mehran Mumtaz",
+      "shortName": "M Mumtaz",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7HA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7HA.png"
+    },
+    "17L": {
+      "id": "17L",
+      "name": "Haider Ali",
+      "shortName": "H Ali",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/17L.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/17L.png"
+    },
+    "8MS": {
+      "id": "8MS",
+      "name": "Aqib Shah",
+      "shortName": "A Shah",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8MS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8MS.png"
+    },
+    "N5G": {
+      "id": "N5G",
+      "name": "Shehbaz Tabraiz",
+      "shortName": "S Tabraiz",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/N5G.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/N5G.png"
+    },
+    "7H1": {
+      "id": "7H1",
+      "name": "Kashif Ali",
+      "shortName": "K Ali",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7H1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7H1.png"
+    },
+    "9MW": {
+      "id": "9MW",
+      "name": "Mohammad Nabeel",
+      "shortName": "M Nabeel",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9MW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9MW.png"
+    },
+    "7HC": {
+      "id": "7HC",
+      "name": "Faizan Ghani",
+      "shortName": "F Ghani",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7HC.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7HC.png"
+    },
+    "2ZW": {
+      "id": "2ZW",
+      "name": "Taimur Khan",
+      "shortName": "T Khan",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/2ZW.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/2ZW.png"
+    },
+    "CQD": {
+      "id": "CQD",
+      "name": "Jahandad Khan",
+      "shortName": "J Khan",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CQD.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CQD.png"
+    },
+    "9MG": {
+      "id": "9MG",
+      "name": "Saad Masood",
+      "shortName": "S Masood",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9MG.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9MG.png"
+    },
+    "8MZ": {
+      "id": "8MZ",
+      "name": "Raza Ul Mustafa",
+      "shortName": "R U Mustafa",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8MZ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/67.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8MZ.png"
+    },
+    "3CE": {
+      "id": "3CE",
+      "name": "Khalid Usman",
+      "shortName": "K Usman",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/3CE.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/3CE.png"
+    },
+    "9N2": {
+      "id": "9N2",
+      "name": "Shahzaib Khan",
+      "shortName": "S Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9N2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9N2.png"
+    },
+    "31Y": {
+      "id": "31Y",
+      "name": "Kamran Ghulam",
+      "shortName": "K Ghulam",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/31Y.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/31Y.png"
+    },
+    "FQV": {
+      "id": "FQV",
+      "name": "Zain Ishaq",
+      "shortName": "Z Ishaq",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQV.png"
+    },
+    "8I8": {
+      "id": "8I8",
+      "name": "Ahmed Khan",
+      "shortName": "A Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/8I8.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/8I8.png"
+    },
+    "LYI": {
+      "id": "LYI",
+      "name": "Mohammad Mohsin Khan",
+      "shortName": "M M Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/LYI.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/LYI.png"
+    },
+    "D22": {
+      "id": "D22",
+      "name": "Mohammad Riazullah",
+      "shortName": "M Riazullah",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/D22.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/D22.png"
+    },
+    "M42": {
+      "id": "M42",
+      "name": "Umair Badshah",
+      "shortName": "U Badshah",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/M42.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/M42.png"
+    },
+    "MB2": {
+      "id": "MB2",
+      "name": "Mohammad Shayan",
+      "shortName": "M Shayan",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/MB2.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/MB2.png"
+    },
+    "1DU": {
+      "id": "1DU",
+      "name": "Arshad Iqbal",
+      "shortName": "A Iqbal",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/1DU.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/1DU.png"
+    },
+    "CYI": {
+      "id": "CYI",
+      "name": "Israr Hussain",
+      "shortName": "I Hussain",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CYI.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CYI.png"
+    },
+    "CYK": {
+      "id": "CYK",
+      "name": "Aqib Khan",
+      "shortName": "A Khan",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CYK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CYK.png"
+    },
+    "APK": {
+      "id": "APK",
+      "name": "Khayam Khan",
+      "shortName": "K Khan",
+      "role": "Wicket-keeper",
+      "vector": "https://cricketvectors.akamaized.net/players/org/APK.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/APK.png"
+    },
+    "CXX": {
+      "id": "CXX",
+      "name": "Mohammad Arif",
+      "shortName": "M Arif",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CXX.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CXX.png"
+    },
+    "G2Q": {
+      "id": "G2Q",
+      "name": "Mehrooz Rasheed",
+      "shortName": "M Rasheed",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/G2Q.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/G2Q.png"
+    },
+    "G2R": {
+      "id": "G2R",
+      "name": "Aftab Ahmad",
+      "shortName": "A Ahmad",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/G2R.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TK.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/G2R.png"
+    },
+    "CZ9": {
+      "id": "CZ9",
+      "name": "Fahad Hussain",
+      "shortName": "F Hussain",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CZ9.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CZ9.png"
+    },
+    "CZ3": {
+      "id": "CZ3",
+      "name": "Nasir Khan",
+      "shortName": "N Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CZ3.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CZ3.png"
+    },
+    "FQQ": {
+      "id": "FQQ",
+      "name": "Aqib Junaid",
+      "shortName": "A Junaid",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQQ.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQQ.png"
+    },
+    "HK1": {
+      "id": "HK1",
+      "name": "Mohammad Uzair",
+      "shortName": "M Uzair",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HK1.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HK1.png"
+    },
+    "7RV": {
+      "id": "7RV",
+      "name": "Taimur Ali",
+      "shortName": "T Ali",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/7RV.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/7RV.png"
+    },
+    "FQ8": {
+      "id": "FQ8",
+      "name": "Dawood Khan",
+      "shortName": "D Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQ8.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQ8.png"
+    },
+    "CZ7": {
+      "id": "CZ7",
+      "name": "Mohammad Deen",
+      "shortName": "M Deen",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CZ7.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CZ7.png"
+    },
+    "77E": {
+      "id": "77E",
+      "name": "Mohammad Shahid",
+      "shortName": "M Shahid",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/77E.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/77E.png"
+    },
+    "FQA": {
+      "id": "FQA",
+      "name": "Abu Huraira",
+      "shortName": "A Huraira",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FQA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FQA.png"
+    },
+    "CZA": {
+      "id": "CZA",
+      "name": "Saleem Mal",
+      "shortName": "S Mal",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/CZA.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/CZA.png"
+    },
+    "N6A": {
+      "id": "N6A",
+      "name": "Farhan Ullah",
+      "shortName": "F Ullah",
+      "role": "Bowler",
+      "vector": "https://cricketvectors.akamaized.net/players/org/N6A.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/N6A.png"
+    },
+    "HL0": {
+      "id": "HL0",
+      "name": "Abu Bakar Khan",
+      "shortName": "A B Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/HL0.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/HL0.png"
+    },
+    "INF": {
+      "id": "INF",
+      "name": "Muhammad Ali Jr",
+      "shortName": "M A Jr",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/INF.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/INF.png"
+    },
+    "FPN": {
+      "id": "FPN",
+      "name": "Shahid Khan",
+      "shortName": "S Khan",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/FPN.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/FPN.png"
+    },
+    "9LS": {
+      "id": "9LS",
+      "name": "Sajjad Ali",
+      "shortName": "S Ali",
+      "role": "All Rounder",
+      "vector": "https://cricketvectors.akamaized.net/players/org/9LS.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/9LS.png"
+    },
+    "QM5": {
+      "id": "QM5",
+      "name": "Shahbaz Ali",
+      "shortName": "S Ali",
+      "role": "Batter",
+      "vector": "https://cricketvectors.akamaized.net/players/org/QM5.png",
+      "jersey": "https://cricketvectors.akamaized.net/jersey/test/org/TJ.png",
+      "thumbnail": "https://cricketvectors.akamaized.net/players/org/QM5.png"
+    }
+  }
+}

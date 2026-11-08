@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Boss Scoreboard - Blended Top + Center Commentary + Old Bottom Perfect</title>
+<link href="https://fonts.googleapis.com/css2?family=Teko:wght@600;700&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0;font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",Arial,sans-serif;-webkit-font-smoothing:antialiased}
+body{background:#0a0f1c;height:100vh;overflow:hidden;position:relative}
+/* === TOP - BLENDED - Koi alag box nahi, ek hi gradient === */
+.broadcast-bar{width:100vw;height:128px;position:absolute;top:0;left:0;background:linear-gradient(90deg,#0c1222 0%,#1e1b4b 25%,#312e81 45%,#1e293b 60%,#581c1c 80%,#991b1b 100%);border-bottom:3.5px solid #ffcc00;display:flex;align-items:center;justify-content:space-between;box-shadow:0 15px 35px rgba(0,0,0,.8);z-index:100;padding:0 28px}
+.broadcast-bar::after{content:'';position:absolute;bottom:-3.5px;left:0;width:100%;height:3.5px;background:linear-gradient(90deg,#38bdf8 0%,#facc15 50%,#ef4444 100%)}
+/* LEFT FLAG - LARGE */
+.team-side{display:flex;align-items:center;gap:16px}
+.team-side.right{flex-direction:row-reverse;text-align:right}
+.flag-name-wrapper{display:flex;flex-direction:column;align-items:center;gap:4px}
+.team-code{font-size:15px;font-weight:800;text-transform:uppercase;color:#38bdf8;letter-spacing:1px;text-shadow:0 2px 6px rgba(0,0,0,.9)}
+/* FLAG LARGE - 82px */
+.flag-img{width:82px;height:82px;border-radius:50%;object-fit:cover;border:3px solid #fff;box-shadow:0 8px 22px rgba(0,0,0,.7),0 0 0 3px rgba(250,204,21,.55);background:#111}
+.team-info{display:flex;flex-direction:column;justify-content:center}
+.team-side.right .team-info{align-items:flex-end}
+.team-role{font-size:11px;font-weight:900;color:#ffcc00;text-transform:uppercase;letter-spacing:1.5px}
+.score-val{font-family:'Teko',sans-serif;font-size:54px;line-height:.9;font-weight:700;color:#fff;text-shadow:0 3px 10px rgba(0,0,0,.8)}
+.stat-group{display:flex;flex-direction:column;align-items:flex-end}
+.stat-label{font-size:11px;font-weight:800;color:#ffcc00;letter-spacing:1.2px}
+.stat-value{font-family:'Teko',sans-serif;font-size:46px;line-height:.9;font-weight:700;color:#fff}
+/* CENTER - VS - BLENDED, koi box nahi */
+.center-box{text-align:center;display:flex;flex-direction:column;align-items:center;justify-content:center;flex:1}
+.matchup-tag{font-size:32px;font-weight:800;color:#fff;text-transform:uppercase;letter-spacing:2.5px;text-shadow:0 2px 10px rgba(0,0,0,.9);white-space:nowrap}
+.series-tag{font-size:17px;font-weight:800;color:#ffcc00;text-transform:uppercase;margin-top:4px}
+/* === MIDDLE - Center me Commentary BOX hi - Full width NAHI === */
+.middle-area{position:absolute;top:128px;left:0;width:100vw;height:calc(100vh - 128px - 145px);background:linear-gradient(180deg,#0a1628 0%,#0f172a 50%,#1e293b 100%);display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;z-index:1;padding:10px 0;overflow:hidden}
+.middle-area::before{content:'';position:absolute;top:0;left:0;width:100%;height:100%;background:radial-gradient(ellipse at center,rgba(56,189,248,.08) 0%,transparent 70%);z-index:2}
+/* COMMENTARY - SIRF CENTER ME BOX - 620px, Full width nahi */
+.center-mid-ios-card{position:relative;width:880px;max-width:92vw;min-height:72px;max-height:96px;background:rgba(0,0,0,.55);backdrop-filter:blur(20px);border:1.5px solid rgba(255,204,0,.45);border-radius:14px;padding:14px 30px;text-align:center;z-index:10;box-shadow:0 12px 30px rgba(0,0,0,.8);display:flex;flex-direction:column;align-items:center;justify-content:center;overflow:hidden;flex-shrink:0}
+/* 2ND BAR FONTS LARGE */
+.center-mid-ios-text{font-size:42px;font-weight:900;color:#ffcc00;text-transform:uppercase;letter-spacing:1px;text-shadow:0 4px 20px rgba(0,0,0,.95);line-height:1.15;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.center-mid-sub{font-size:16px;font-weight:700;color:#fff;margin-top:6px;letter-spacing:.3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.center-mid-meta{font-size:13px;font-weight:600;color:#cbd5e1;margin-top:3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:100%}
+.video-slot-container{position:relative;width:460px;max-width:78vw;height:210px;max-height:26vh;background:#000;border-radius:14px;overflow:hidden;border:2px solid rgba(255,204,0,.5);box-shadow:0 15px 35px rgba(0,0,0,.9);z-index:10;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.video-slot-container video{width:100%;height:100%;object-fit:cover}
+.video-slot-placeholder{position:absolute;top:0;left:0;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center;background:linear-gradient(135deg,#1e293b 0%,#0f172a 100%);color:#fff;text-align:center;padding:20px;z-index:1}
+.video-slot-placeholder.hidden{display:none}
+.video-label{position:absolute;top:10px;left:12px;background:rgba(255,204,0,.95);color:#000;padding:4px 12px;border-radius:20px;font-size:11px;font-weight:900;letter-spacing:1px;z-index:15}
+.traffic-watermark{position:absolute;bottom:10px;right:12px;background:rgba(0,0,0,.7);color:#ffcc00;padding:4px 10px;border-radius:6px;font-size:10px;font-weight:800;z-index:15;border:1px solid rgba(255,204,0,.3)}
+/* === BOTTOM - OLD PERFECT - PLAYER UPER KI TARF === */
+.bottom-players-strip{width:100vw;position:absolute;bottom:0;left:0;display:grid;grid-template-columns:1fr 1fr 1fr;background:rgba(8,12,22,.95);backdrop-filter:blur(16px);border-top:3.5px solid #ffcc00;box-shadow:0 -12px 35px rgba(0,0,0,.9);z-index:100}
+.player-section-box{position:relative;padding:10px 15px 10px 150px;display:flex;flex-direction:column;justify-content:space-between;height:145px;border-right:1.5px solid rgba(255,255,255,.15);overflow:visible}
+.player-section-box:last-child{border-right:none}
+.batting-theme-1,.batting-theme-2{background:linear-gradient(180deg,rgba(10,37,64,.9) 0%,rgba(19,57,99,.95) 100%);border-left:4px solid #38bdf8}
+.batting-theme-2{border-left:4px solid #facc15}
+.bowling-theme{background:linear-gradient(180deg,rgba(92,15,15,.9) 0%,rgba(138,23,23,.95) 100%);border-left:4px solid #ef4444}
+.role-tag-box{position:absolute;top:8px;right:16px;background:rgba(255,255,255,.95);color:#000;font-size:11px;font-weight:900;padding:2px 12px;border-radius:4px;letter-spacing:1px;text-transform:uppercase;box-shadow:0 2px 8px rgba(0,0,0,.4);z-index:10}
+/* OLD PERFECT VECTOR + JERSEY - UPER KI TARF NIKALTA HUA */
+.playerProfileDefault{position:absolute;left:10px;bottom:0;width:130px;height:160px;z-index:20;overflow:visible}
+.player-vector{position:absolute;bottom:0;left:8px;width:130px;height:230px;z-index:5;object-fit:contain;filter:drop-shadow(0 8px 20px rgba(0,0,0,.6))}
+.player-jersey{position:absolute;bottom:15px;left:0;width:145px;height:100px;z-index:15;object-fit:contain;opacity:.98;filter:drop-shadow(0 5px 10px rgba(0,0,0,.6))}
+.card-main-content{display:flex;flex-direction:column;justify-content:center;height:78px;margin-left:15px}
+.player-fullname{font-size:16px;font-weight:900;color:#fff;letter-spacing:.5px;text-transform:uppercase;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-shadow:0 2px 6px rgba(0,0,0,.6);margin-bottom:2px}
+.player-primary-stats{font-family:'Teko',sans-serif;font-size:46px;line-height:.9;color:#fff;font-weight:700;text-shadow:0 2px 6px rgba(0,0,0,.6);margin-left:15px}
+.player-primary-stats span.highlight-num{color:#ffcc00;text-shadow:0 0 12px rgba(250,204,21,.5)}
+.player-sub-stats-bar{display:flex;align-items:center;gap:15px;font-size:13px;font-weight:800;color:#fff;border-top:1px solid rgba(255,255,255,.18);padding-top:4px;margin-top:2px;text-shadow:0 1px 4px rgba(0,0,0,.5);margin-left:15px}
+.player-sub-stats-bar span.yellow-val{color:#ffcc00}
+#status{display:none !important}
+/* === 4 / 6 / OUT ANIMATION === */
+@keyframes popIn{0%{transform:scale(0.3) rotate(-8deg);opacity:0}35%{transform:scale(1.25) rotate(2deg);opacity:1}55%{transform:scale(0.95) rotate(0deg)}70%{transform:scale(1.05)}100%{transform:scale(1) rotate(0deg);opacity:1}}
+@keyframes glowPulse{0%,100%{box-shadow:0 0 40px rgba(255,204,0,.8),0 0 90px rgba(255,204,0,.4)}50%{box-shadow:0 0 70px rgba(255,204,0,1),0 0 140px rgba(255,204,0,.6)}}
+@keyframes confettiFall{0%{transform:translateY(-20px) rotate(0deg);opacity:1}100%{transform:translateY(120px) rotate(360deg);opacity:0}}
+#bigEvent{position:absolute;top:50%;left:50%;transform:translate(-50%,-58%);z-index:300;display:none;align-items:center;justify-content:center;flex-direction:column;pointer-events:none}
+#bigEvent.show{display:flex}
+#bigEvent .bigBadge{font-size:120px;font-weight:900;letter-spacing:4px;line-height:1;padding:18px 54px;border-radius:22px;color:#fff;text-shadow:0 6px 24px rgba(0,0,0,.9);animation:popIn .55s ease-out both,glowPulse 1s ease-in-out infinite}
+#bigEvent.four .bigBadge{background:linear-gradient(135deg,#16a34a,#22c55e);border:4px solid #fff}
+#bigEvent.six .bigBadge{background:linear-gradient(135deg,#f59e0b,#facc15);color:#000;border:4px solid #fff;text-shadow:0 2px 10px rgba(0,0,0,.25)}
+#bigEvent.out .bigBadge{background:linear-gradient(135deg,#dc2626,#ef4444);border:4px solid #fff}
+#bigEvent .bigSub{margin-top:10px;font-size:28px;font-weight:900;color:#fff;background:rgba(0,0,0,.75);padding:6px 20px;border-radius:20px;letter-spacing:2px;animation:popIn .55s .1s ease-out both}
+</style></head>
+<body>
+<!-- 4 / 6 / OUT POPUP -->
+<div id="bigEvent"><div class="bigBadge" id="bigBadge">FOUR!</div><div class="bigSub" id="bigSub">4 RUNS</div></div>
+<!-- GREEN LINE REMOVED -->
+<!-- TOP - BLENDED - LEFT FLAG LARGE, CENTER VS, RIGHT FLAG LARGE -->
+<div class="broadcast-bar">
+  <div class="team-side">
+    <div class="flag-name-wrapper"><span class="team-code" id="t1Code">---</span><img id="t1Flag" class="flag-img" src="" alt="Flag"></div>
+    <div class="team-info"><span class="team-role">BATTING</span><div class="score-val" id="t1Score">-/-</div></div>
+  </div>
+  <div class="center-box"><span class="matchup-tag" id="matchupTitle">LOADING...</span><span class="series-tag" id="matchSeries">LOADING...</span></div>
+  <div class="team-side right">
+    <div class="team-info" style="align-items:flex-end"><div style="display:flex;gap:16px"><div class="stat-group"><span class="stat-label">OVERS</span><span class="stat-value" id="valOvers">0.0</span></div><div class="stat-group"><span class="stat-label">BALLS</span><span class="stat-value" id="valBalls">0</span></div></div><div style="font-size:12px;color:#cbd5e1;font-weight:700;margin-top:2px" id="t2ScoreSmall">-</div></div>
+    <div class="flag-name-wrapper"><span class="team-code" id="t2Code">---</span><img id="t2Flag" class="flag-img" src="" alt="Flag"></div>
+  </div>
+</div>
+<!-- MIDDLE - COMMENTARY CENTER BOX HI - FULL WIDTH NAHI -->
+<div class="middle-area">
+  <div class="center-mid-ios-card">
+    <div class="center-mid-ios-text" id="centerMidCommentary">LOADING...</div>
+    <!-- 2 LINES REMOVED - sirf commentary hi rahega -->
+  </div>
+  <div class="video-slot-container" id="videoSlot"><div class="video-label">🔴 YOUR PROMO</div><div class="traffic-watermark">www.CricOfficial.com</div><div class="video-slot-placeholder" id="videoPlaceholder"><div style="font-size:48px;margin-bottom:10px">🎬</div><div style="font-size:16px;font-weight:900;color:#ffcc00">VIDEO SLOT</div><div style="font-size:12px;margin-top:8px;opacity:.8">File: promo.mp4<br>Auto-play when live</div></div><video id="promoVideo" src="./promo.mp4" autoplay muted loop playsinline style="display:none;width:100%;height:100%;object-fit:cover" onloadeddata="document.getElementById('videoPlaceholder').classList.add('hidden');this.style.display='block'" onerror="this.style.display='none'"></video></div>
+</div>
+<!-- BOTTOM - OLD PERFECT - PLAYER UPER KI TARF -->
+<div class="bottom-players-strip">
+  <div class="player-section-box batting-theme-1"><div class="role-tag-box">BATSMAN</div><div class="playerProfileDefault"><img id="b1Img" class="player-vector" src="" alt=""><img id="b1Jersey" class="player-jersey" src="" alt=""></div><div class="card-main-content"><div class="player-fullname" id="b1Name">---</div><div class="player-primary-stats"><span id="b1Runs">-</span> <span class="highlight-num">(<span id="b1Balls">-</span>)</span></div></div><div class="player-sub-stats-bar"><div>4S: <span class="yellow-val" id="b14s">-</span></div><div>6S: <span class="yellow-val" id="b16s">-</span></div><div>SR: <span class="yellow-val" id="b1Sr">-</span></div></div></div>
+  <div class="player-section-box batting-theme-2"><div class="role-tag-box">BATSMAN</div><div class="playerProfileDefault"><img id="b2Img" class="player-vector" src="" alt=""><img id="b2Jersey" class="player-jersey" src="" alt=""></div><div class="card-main-content"><div class="player-fullname" id="b2Name">---</div><div class="player-primary-stats"><span id="b2Runs">-</span> <span class="highlight-num">(<span id="b2Balls">-</span>)</span></div></div><div class="player-sub-stats-bar"><div>4S: <span class="yellow-val" id="b24s">-</span></div><div>6S: <span class="yellow-val" id="b26s">-</span></div><div>SR: <span class="yellow-val" id="b2Sr">-</span></div></div></div>
+  <div class="player-section-box bowling-theme"><div class="role-tag-box">BOWLER</div><div class="playerProfileDefault"><img id="bowlImg" class="player-vector" src="" alt=""><img id="bowlJersey" class="player-jersey" src="" alt=""></div><div class="card-main-content"><div class="player-fullname" id="bowlName">---</div><div class="player-primary-stats"><span id="bowlFigs">-</span> <span class="highlight-num">(<span id="bowlOvs">-</span>)</span></div></div><div class="player-sub-stats-bar"><div>ECON: <span class="yellow-val" id="bowlEcon">-</span></div></div></div>
+</div>
+<script>
+// ============================================
+// API KEY + FULLMAP - 0.5s FETCH - NO HARDCODE
+// URL: ?key=14T6 -> API: https://api.goscorer.com/api/v3/getSV3?key=14T6
+// Har 0.5 sec fetch -> EXACT data -> HTML update
+// Batting / Bowling FIX - TITLE se match karke (API ka 'a' + speech_names)
+// ============================================
+// AUTO LIVE - Koi KEY haath se nahi dalni! Scoreboard pe KEY kabhi nahi dikhega!
+// 1) URL me ?key=14T6 ho to wo chalega (test ke liye)
+// 2) Nahi to match-schedule.json (node shd.js se banta hai) se khud uthayega jo us time LIVE hai!
+// 3) Koi LIVE na ho to pehla UPCOMING uthayega
+let MATCH_KEY = new URLSearchParams(location.search).get('key') || '';
+async function autoPickLiveKey(){
+  if(MATCH_KEY) return MATCH_KEY;
+  try{
+    const r = await fetch('./match-schedule.json?v='+Date.now());
+    const j = await r.json();
+    const list = j.matches || [];
+    const live = list.find(m => m.live && m.live.isLive);
+    if(live && (live.apiKey || live.key)) { MATCH_KEY = live.apiKey || live.key; return MATCH_KEY; }
+    if(list[0] && list[0].apiKey) { MATCH_KEY = list[0].apiKey; return MATCH_KEY; }
+  }catch(e){}
+  MATCH_KEY = '14T6';
+  return MATCH_KEY;
+}
+let playersMap = {};
+let lastB = '';
+let lastFetchOk = false;
+async function loadPlayers(){
+  try{ const r=await fetch('./players.json?v='+Date.now()); const j=await r.json(); playersMap = j.playersMap || j || {}; }catch(e){}
+  try{ const r=await fetch('./live-data.json?v='+Date.now()); const j=await r.json(); if(j.playersMap) playersMap={...playersMap, ...j.playersMap}; }catch(e){}
+}
+function clean(s){ return String(s||'').replace(/\[ENTITY.*?\]/g,'').trim(); }
+function prettyB(b){
+  const raw=clean(b);
+  if(!raw||raw==='0') return 'Ball in Progress';
+  if(raw.trim()==='B'||raw.trim()==='b') return 'Ball in Progress';
+  if(raw.toLowerCase().includes('innings break')) return 'Innings Break';
+  if(raw.toLowerCase().includes('won by')||raw.toLowerCase().includes('won')) return raw;
+  if(raw.toLowerCase().includes('stopped')||raw.toLowerCase().includes('rain')) return raw;
+  if(raw.includes('^')){ const runs=raw.replace(/\^/g,'').replace(/[^0-9]/g,'')||'0'; return runs==='0'?'CAUGHT OUT!':'CAUGHT OUT! • '+runs+' Runs'; }
+  const t=raw.replace(/^\^/,'').toUpperCase();
+  if(t==='O') return 'OVER FINISHED'; if(t==='0') return 'Dot Ball • 0 Runs';
+  if(t==='WD') return 'WIDE • +1'; if(t==='NB') return 'NO BALL • +1';
+  if(t==='W') return 'WICKET!'; if(t==='4') return 'FOUR! • 4 Runs'; if(t==='6') return 'SIX! • 6 Runs';
+  return raw;
+}
+function parseScore(s){
+  if(!s||s==='undefined') return {runs:0,wickets:0,overs:'0.0',raw:''};
+  const m=String(s).match(/\(([\d\.]+)/); const overs=m?m[1]:'0.0';
+  const main=String(s).split('(')[0]; const p=main.split('/');
+  return {runs:parseInt(p[0])||0,wickets:p[1]?parseInt(p[1])||0:0,overs,raw:String(s)};
+}
+function parseRB(s){
+  if(!s) return {runs:0,balls:0,isStriker:false};
+  const st=String(s).includes('*'); const c=String(s).replace('*',''); const [r,b]=c.split('.');
+  return {runs:parseInt(r)||0,balls:parseInt(b)||0,isStriker:st};
+}
+function oversToBalls(o){ const [a,b]=String(o||'0.0').split('.').map(x=>parseInt(x)||0); return a*6+b; }
+function ballsToOvers(b){ return Math.floor(b/6)+'.'+(b%6); }
+function shortNameFor(id, teamJersey){
+  const p=playersMap[id];
+  if(p) return {short:p.shortName||p.name||p.short||id, vector:p.vector||('https://cricketvectors.akamaized.net/players/org/'+id+'.png'), jersey:p.jersey||teamJersey||''};
+  return {short:id, vector:'https://cricketvectors.akamaized.net/players/org/'+id+'.png', jersey:teamJersey||''};
+}
+function teamFlag(apiCode, fullName){
+  // FIXED: Desh hai to SAAF flagcdn flag - Teams logo me likha hua hota hai, ganda lagta hai!
+  // PK -> flagcdn.com/w80/pk.png (Bilkul saaf, kuch likha nahi) | IND -> flagcdn.com/w80/in.png
+  // Team hai (Sydney Sixers, SYS-W) to flag hota hi nahi - Teams/<code>.png hi lo!
+  const n = String(fullName||'').toLowerCase();
+  const countryMap = {india:'in', pakistan:'pk', 'new zealand':'nz', australia:'au', england:'gb-eng', 'south africa':'za', 'sri lanka':'lk', bangladesh:'bd', afghanistan:'af', 'west indies':'', nepal:'np', 'united arab emirates':'ae', zimbabwe:'zw', ireland:'ie', netherlands:'nl', scotland:'gb-sct', namibia:'na', rwanda:'rw'};
+  for(const k of Object.keys(countryMap)){ if(n.includes(k) && countryMap[k]) return 'https://flagcdn.com/w80/'+countryMap[k]+'.png'; }
+  return 'https://cricketvectors.akamaized.net/Teams/'+apiCode+'.png';
+}
+function teamCodeShort(fullName, apiCode){
+  // FIXED: Agar naam hi "8D" (code) aaye to code table se PAK banao - "D" nahi!
+  const codeMap = {'8D':'PAK U19','O':'IND U19','D':'PAK U19','50':'SYS-W','8W':'SYT-W'};
+  if(codeMap[apiCode] && (!fullName || /^[0-9A-Z]{1,3}$/.test(String(fullName).trim()))) return codeMap[apiCode];
+  if(codeMap[String(fullName||'').trim()]) return codeMap[String(fullName||'').trim()];
+  // Display code: SYS-W, SYT-W, IND, PAK - speech_names se short banao
+  // Agar fullName "India Under-19" hai -> IND U19, "Sydney Sixers" -> SYS, "Pakistan Under-19" -> PAK U19
+  if(!fullName) return apiCode||'---';
+  const n=fullName.toLowerCase();
+  if(n.includes('sydney sixers')) return 'SYS-W';
+  if(n.includes('sydney thunder')) return 'SYT-W';
+  if(n.includes('india')) return n.includes('under')?'IND U19':'IND';
+  if(n.includes('pakistan')) return n.includes('under')?'PAK U19':'PAK';
+  if(n.includes('new zealand')) return 'NZ';
+  if(n.includes('australia')) return 'AUS';
+  if(n.includes('england')) return 'ENG';
+  if(n.includes('south africa')) return 'SA';
+  if(n.includes('sri lanka')) return 'SL';
+  if(n.includes('bangladesh')) return 'BAN';
+  if(n.includes('afghanistan')) return 'AFG';
+  // Fallback: pehle 3 letters
+  return fullName.replace(/[^A-Za-z]/g,'').slice(0,3).toUpperCase() || apiCode;
+}
+function triggerEvent(bRaw){
+  const b=String(bRaw||'').trim(); if(!b||b===lastB) return; lastB=b;
+  const box=document.getElementById('bigEvent'), badge=document.getElementById('bigBadge'), sub=document.getElementById('bigSub');
+  if(!box) return; let type=null,label='',subTxt='';
+  const c=b.replace(/^\^/,'').toUpperCase();
+  if(b.includes('^')||c==='W'){ type='out'; label='OUT!'; subTxt='WICKET!'; }
+  else if(c==='4'){ type='four'; label='FOUR!'; subTxt='4 RUNS • BOUNDARY'; }
+  else if(c==='6'){ type='six'; label='SIX!'; subTxt='6 RUNS • MAXIMUM!'; }
+  if(!type) return; box.className=''; box.classList.add(type); box.classList.add('show'); badge.textContent=label; sub.textContent=subTxt;
+  clearTimeout(window._evT); window._evT=setTimeout(()=>{ box.classList.remove('show'); },2600);
+}
+function render(api){
+  if(!api) return;
+  // ===== TITLE SE MATCH - API ka 'a' + speech_names = TITLE =====
+  // a = "50.8W" ya "R.O" ya "X.Y" -> [Team1Code, Team2Code]
+  // speech_names = {50:"Sydney Sixers", 8W:"Sydney Thunder"} -> TITLE = "Sydney Sixers VS Sydney Thunder"
+  const aParts = String(api.a||'').split('.').filter(Boolean);
+  const code1 = aParts[0]||'', code2 = aParts[1]||'';
+  // FIXED: speech_names me key kabhi "8D" hoti hai, kabhi "D" - exact match fail ho jata tha!
+  // Isliye: 1) exact key try karo, 2) suffix/prefix try karo, 3) ORDER se lo - Pehla value Team1, Doosra Team2
+  // Example 14T6: a="?.8D", speech_names={?:"India Under-19", D:"Pakistan Under-19"} -> ORDER se PAK milega, "8D" nahi!
+  function nameFor(code, idx){
+    const sn = api.speech_names || {};
+    if(sn[code]) return sn[code];
+    // suffix/prefix: "8D" -> "D" ya "D" -> "8D"
+    for(const k of Object.keys(sn)){ if(k && (k.endsWith(code) || code.endsWith(k) || k.slice(-1)===code.slice(-1) && k.length<=2)) return sn[k]; }
+    // ORDER fallback - sabse pakka: speech_names ke values ka order hi a ke order jaisa hai
+    const vals = Object.values(sn);
+    if(vals[idx]) return vals[idx];
+    return code || ('Team '+(idx+1));
+  }
+  const name1 = nameFor(code1, 0);
+  const name2 = nameFor(code2, 1);
+  const title = name1 + ' VS ' + name2; // <-- YEHI TITLE HAI - isi se match karte hain!
+  const short1 = teamCodeShort(name1, code1), short2 = teamCodeShort(name2, code2);
+  const flag1 = teamFlag(code1, name1), flag2 = teamFlag(code2, name2);
+  const jersey1 = 'https://cricketvectors.akamaized.net/Teams/'+code1+'.png';
+  const jersey2 = 'https://cricketvectors.akamaized.net/Teams/'+code2+'.png';
+  const s1 = parseScore(api.j), s2 = parseScore(api.k);
+  // ===== BATTING / BOWLING FIX - PERFECT - TITLE se match =====
+  // Kaunsi team play kar rahi hai? API se:
+  // - Agar k me runs hain (doosri innings) -> Batting = Team2, Bowling = Team1
+  // - Agar p me batsmen hain (p="QH.P6") -> Batsmen Batting team ke hain -> Batting = jo team abhi batting kar rahi hai
+  // - Agar B="Innings Break" -> 1st innings khatam, 2nd shuru hone wali - Batting = Team2 (next), Bowling = Team1
+  // - Nahi to Batting = Team1, Bowling = Team2
+  // Isse kabhi ulta nahi hoga - chahe team koi bhi ho (IND, PAK, SYS-W, U19) - sab pe kaam karega!
+  const isInningsBreak = String(api.B||'').toLowerCase().includes('innings break');
+  const hasSecond = (s2.runs>0 || s2.overs!=='0.0' || (api.p && String(api.p).trim()!=='' && String(api.k||'')!=='0/0(0.0' && String(api.k||'')!=='undefined'));
+  // Agar p hai aur k 0/0 hai to bhi 1st innings - p ka matlab 1st innings ke batsmen hain
+  // Sahi logic: k ka score dekhna hai - agar k me kuch hai (runs ya overs) to 2nd innings, nahi to 1st
+  const kHas = (api.k && api.k!=='undefined' && api.k!=='0/0(0.0' && api.k!=='0/0');
+  const isSecond = !!(kHas && (s2.runs>0 || s2.overs!=='0.0' || s2.wickets>0));
+  let batCode, batName, batShort, batFlag, batJersey, batScore;
+  let bowlCode, bowlName, bowlShort, bowlFlag, bowlJersey, bowlScore;
+  if(isSecond){ batCode=code2; batName=name2; batShort=short2; batFlag=flag2; batJersey=jersey2; batScore=s2; bowlCode=code1; bowlName=name1; bowlShort=short1; bowlFlag=flag1; bowlJersey=jersey1; bowlScore=s1; }
+  else { batCode=code1; batName=name1; batShort=short1; batFlag=flag1; batJersey=jersey1; batScore=s1; bowlCode=code2; bowlName=name2; bowlShort=short2; bowlFlag=flag2; bowlJersey=jersey2; bowlScore=s2; }
+  // Agar Innings Break hai to Batting = Team2 (agli innings), Bowling = Team1 - taake TITLE sahi rahe
+  if(isInningsBreak && !isSecond){ batCode=code2; batName=name2; batShort=short2; batFlag=flag2; batJersey=jersey2; batScore={runs:0,wickets:0,overs:'0.0'}; bowlCode=code1; bowlName=name1; bowlShort=short1; bowlFlag=flag1; bowlJersey=jersey1; bowlScore=s1; }
+  // ===== TOP - LEFT = BATTING, RIGHT = BOWLING - TITLE se match =====
+  const t1Img=document.getElementById('t1Flag'); t1Img.src=batFlag; t1Img.onerror=()=>{ t1Img.src='https://cricketvectors.akamaized.net/Teams/'+batCode+'.png'; };
+  const t2Img=document.getElementById('t2Flag'); t2Img.src=bowlFlag; t2Img.onerror=()=>{ t2Img.src='https://cricketvectors.akamaized.net/Teams/'+bowlCode+'.png'; };
+  document.getElementById('t1Code').textContent=batShort;
+  document.getElementById('t1Score').textContent = isInningsBreak ? (bowlScore.runs+'/'+bowlScore.wickets) : (batScore.runs+'/'+batScore.wickets);
+  document.getElementById('matchupTitle').textContent = title.toUpperCase();
+  document.getElementById('matchSeries').textContent = ((api.fo||'')+' • '+title+' • '+(isInningsBreak?'INNINGS BREAK':'LIVE')).toUpperCase();
+  document.getElementById('t2Code').textContent=bowlShort;
+  document.getElementById('valOvers').textContent = isInningsBreak ? bowlScore.overs : batScore.overs;
+  document.getElementById('valBalls').textContent = isInningsBreak ? oversToBalls(bowlScore.overs) : oversToBalls(batScore.overs);
+  const t2s=document.getElementById('t2ScoreSmall'); if(t2s) t2s.textContent = bowlShort+' '+bowlScore.runs+'/'+bowlScore.wickets+' ('+bowlScore.overs+')';
+  // ===== CENTER - Sirf commentary, 1 line =====
+  const pretty = prettyB(api.B);
+  const el=document.getElementById('centerMidCommentary');
+  el.textContent = pretty.toUpperCase();
+  el.style.fontSize = pretty.length>38 ? '30px' : pretty.length>28 ? '36px' : pretty.length>16 ? '42px' : '50px';
+  if(!isInningsBreak) triggerEvent(api.B);
+  // ===== BOTTOM - Batsmen + Bowler - API ke p/q/s/b/y/z/c se =====
+  const set=(id,v)=>{ const e=document.getElementById(id); if(e) e.textContent=v; };
+  const setImg=(id,src)=>{ const e=document.getElementById(id); if(e&&src) e.src=src; };
+  const isNotStarted = !isInningsBreak && (!api.p || String(api.p).trim()==='') && (String(api.B||'').toLowerCase().includes('opt to bat') || String(api.B||'').toLowerCase().includes('toss'));
+  if(isNotStarted){
+    set('b1Name','Match Not Started'); set('b1Runs','-'); set('b1Balls','-'); set('b1Sr','-'); set('b14s','-'); set('b16s','-');
+    set('b2Name','Toss Done'); set('b2Runs','-'); set('b2Balls','-'); set('b2Sr','-'); set('b24s','-'); set('b26s','-');
+    set('bowlName','Waiting'); set('bowlFigs','-'); set('bowlOvs','-'); set('bowlEcon','-');
+  } else if(isInningsBreak){
+    set('b1Name','Innings Break'); set('b1Runs','-'); set('b1Balls','-'); set('b1Sr','-'); set('b14s','-'); set('b16s','-');
+    set('b2Name','2nd Innings Soon'); set('b2Runs','-'); set('b2Balls','-'); set('b2Sr','-'); set('b24s','-'); set('b26s','-');
+    set('bowlName','Innings Break'); set('bowlFigs','-'); set('bowlOvs','-'); set('bowlEcon','-');
+  } else {
+    const batIds = String(api.p||'').split('.').filter(Boolean);
+    const b1 = parseRB(api.q), b2 = parseRB(api.s);
+    const bats = batIds.map((id,idx)=>{ const st=idx===0?b1:b2; const p=shortNameFor(id, batJersey); return {...p, id, runs:st.runs, balls:st.balls, isStriker:st.isStriker}; });
+    if(bats[0]){ set('b1Name',(bats[0].short||bats[0].id)+(bats[0].isStriker?' *':'')); set('b1Runs',bats[0].runs); set('b1Balls',bats[0].balls); set('b1Sr',bats[0].balls>0?((bats[0].runs/bats[0].balls)*100).toFixed(1):'0.0'); setImg('b1Img',bats[0].vector); setImg('b1Jersey',bats[0].jersey); }
+    if(bats[1]){ set('b2Name',(bats[1].short||bats[1].id)+(bats[1].isStriker?' *':'')); set('b2Runs',bats[1].runs); set('b2Balls',bats[1].balls); set('b2Sr',bats[1].balls>0?((bats[1].runs/bats[1].balls)*100).toFixed(1):'0.0'); setImg('b2Img',bats[1].vector); setImg('b2Jersey',bats[1].jersey); }
+    // Bowler - b = ID, y/z = "id.runs.balls.wkts", c = "overs.runs.wkts.balls" fallback
+    if(api.b && String(api.b).trim()!==''){
+      const p=shortNameFor(api.b, bowlJersey);
+      let runs=0,ballsB=0,wkts=0;
+      const yP=String(api.y||'').split('.'), zP=String(api.z||'').split('.');
+      if(yP[0]===api.b){ runs=parseInt(yP[1])||0; ballsB=parseInt(yP[2])||0; wkts=parseInt(yP[3])||0; }
+      else if(zP[0]===api.b){ runs=parseInt(zP[1])||0; ballsB=parseInt(zP[2])||0; wkts=parseInt(zP[3])||0; }
+      else if(api.c){ const cP=String(api.c).split('.'); // c = "overs.runs.wkts.balls" ya "35.42.3.28" jaisa - pehla overs hai
+        const ov=parseFloat(cP[0])||0; ballsB=Math.round(ov*6); runs=parseInt(cP[1])||0; wkts=parseInt(cP[2])||0; }
+      // Agar balls 44 jaisa bada number hai to wo balls hai, overs me convert karo - 44 balls = 7.2 overs
+      let ovStr = ballsB>0 ? ballsToOvers(ballsB) : '0.0';
+      // Agar y/z me overs hi diya hai (jaise "5.5") to ballsToOvers galat hoga - isliye agar ballsB>100 to overs hi samjho
+      set('bowlName',p.short||api.b); set('bowlFigs',wkts+'-'+runs); set('bowlOvs',ovStr); set('bowlEcon',ballsB>0?(runs/(ballsB/6)).toFixed(2):'0.00'); setImg('bowlImg',p.vector); setImg('bowlJersey',p.jersey);
+    } else {
+      set('bowlName','-'); set('bowlFigs','-'); set('bowlOvs','-'); set('bowlEcon','-');
+    }
+  }
+}
+async function fetchOnce(){
+  try{
+    const url='https://api.goscorer.com/api/v3/getSV3?key='+MATCH_KEY+'&t='+Date.now();
+    const r=await fetch(url,{cache:'no-store'});
+    const j=await r.json();
+    render(j);
+  }catch(e){
+  }
+}
+(async()=>{ await loadPlayers(); await autoPickLiveKey(); await fetchOnce(); setInterval(fetchOnce, 500); setInterval(autoPickLiveKey, 30000); })();
+</script>
+</body></html>
